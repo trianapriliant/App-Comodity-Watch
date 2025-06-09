@@ -1,4 +1,4 @@
-# 📈 Komoditas Watch
+# 📈 Komoditas Watch (Bugging, Under Development)
 ![Dashbard](public/image/Dashboard.png)
 
 ## 📝 Description
@@ -99,15 +99,12 @@ We welcome contributions!
 
 ## 📄 License
 
-\[Specify license, e.g., MIT License]
+\[MIT License]
 
 ---
 
 ## 📬 Contact
 
-For questions or collaboration, reach out to: **\[your name]**
-📧 Email: **\[[your.email@example.com](mailto:your.email@example.com)]**
+For questions or collaboration, reach out to: **\[Trian]**
+📧 Email: **\[[trianaprilianto3@gmmail.com](mailto:trianaprilianto3@gmail.com)]**
 
----
-
-Jika kamu ingin versi README ini dalam bahasa Indonesia juga, atau ingin saya bantu menambahkan badge GitHub, status CI/CD, atau struktur folder, tinggal bilang saja!
