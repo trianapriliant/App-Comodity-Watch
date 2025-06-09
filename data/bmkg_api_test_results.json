@@ -1,0 +1,37 @@
+[
+  {
+    "province": "DKIJakarta",
+    "url": "https://data.bmkg.go.id/DataMKG/MEWS/DigitalForecast/DigitalForecast-DKIJakarta.xml",
+    "status": "\u2705 Berhasil",
+    "content_length": 18526,
+    "content_type": "text/html"
+  },
+  {
+    "province": "JawaBarat",
+    "url": "https://data.bmkg.go.id/DataMKG/MEWS/DigitalForecast/DigitalForecast-JawaBarat.xml",
+    "status": "\u2705 Berhasil",
+    "content_length": 18526,
+    "content_type": "text/html"
+  },
+  {
+    "province": "JawaTengah",
+    "url": "https://data.bmkg.go.id/DataMKG/MEWS/DigitalForecast/DigitalForecast-JawaTengah.xml",
+    "status": "\u2705 Berhasil",
+    "content_length": 18526,
+    "content_type": "text/html"
+  },
+  {
+    "province": "JawaTimur",
+    "url": "https://data.bmkg.go.id/DataMKG/MEWS/DigitalForecast/DigitalForecast-JawaTimur.xml",
+    "status": "\u2705 Berhasil",
+    "content_length": 18526,
+    "content_type": "text/html"
+  },
+  {
+    "province": "Bali",
+    "url": "https://data.bmkg.go.id/DataMKG/MEWS/DigitalForecast/DigitalForecast-Bali.xml",
+    "status": "\u2705 Berhasil",
+    "content_length": 18526,
+    "content_type": "text/html"
+  }
+]

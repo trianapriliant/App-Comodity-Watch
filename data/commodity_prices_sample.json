@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "data": {
+    "base_currency": "USD",
+    "rates": {
+      "WHEAT": {
+        "open": 536.96,
+        "high": 544.55,
+        "low": 530.77,
+        "prev": 536.26,
+        "current": 543.56
+      },
+      "CORN": {
+        "open": 433.2,
+        "high": 438.37,
+        "low": 428.75,
+        "prev": 432.57,
+        "current": 436.4
+      },
+      "SUGAR": {
+        "open": 0.16672,
+        "high": 0.16718,
+        "low": 0.16474,
+        "prev": 0.16802,
+        "current": 0.16674
+      },
+      "COFFEE": {
+        "open": 365.55,
+        "high": 377.58,
+        "low": 358.79,
+        "prev": 360.54,
+        "current": 359.45
+      },
+      "COCOA": {
+        "open": 10013,
+        "high": 10383,
+        "low": 9912,
+        "prev": 10005,
+        "current": 10060
+      }
+    }
+  }
+}

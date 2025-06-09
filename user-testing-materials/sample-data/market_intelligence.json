@@ -1,0 +1,63 @@
+{
+  "summary_date": "2025-06-07",
+  "period": "last_30_days",
+  "national_inflation": {
+    "food_inflation_rate": 3.2,
+    "target_rate": 3.0,
+    "status": "slightly_above_target",
+    "contributing_commodities": [
+      {
+        "commodity": "CABAI_MERAH",
+        "contribution": 1.2
+      },
+      {
+        "commodity": "TOMAT",
+        "contribution": 0.8
+      },
+      {
+        "commodity": "BAWANG_MERAH",
+        "contribution": 0.6
+      }
+    ]
+  },
+  "regional_highlights": [
+    {
+      "region": "DKI Jakarta",
+      "status": "stable",
+      "avg_price_change": 2.1,
+      "alert_level": "green"
+    },
+    {
+      "region": "Jawa Barat",
+      "status": "volatile",
+      "avg_price_change": 8.5,
+      "alert_level": "yellow"
+    },
+    {
+      "region": "Jawa Timur",
+      "status": "declining",
+      "avg_price_change": -3.2,
+      "alert_level": "green"
+    }
+  ],
+  "supply_chain_alerts": [
+    {
+      "type": "weather_impact",
+      "severity": "medium",
+      "affected_regions": [
+        "32",
+        "33"
+      ],
+      "commodities": [
+        "CABAI_MERAH",
+        "TOMAT"
+      ],
+      "estimated_duration": "7-14 days"
+    }
+  ],
+  "policy_recommendations": [
+    "Monitor Jawa Barat region closely untuk potential intervention",
+    "Consider temporary import facilitation untuk cabai merah",
+    "Enhance early warning system untuk weather-sensitive crops"
+  ]
+}

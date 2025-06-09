@@ -1,0 +1,59 @@
+[
+  {
+    "date": "2025-06-02",
+    "commodity_code": "CABAI_MERAH",
+    "commodity_name": "Cabai Merah",
+    "region_code": "32",
+    "region_name": "Jawa Barat",
+    "actual_price": 75000,
+    "expected_price": 45000,
+    "anomaly_score": 0.92,
+    "anomaly_type": "price_spike",
+    "severity": "critical",
+    "explanation": "Harga naik 67% akibat curah hujan tinggi yang merusak tanaman. Pasokan dari sentra produksi terganggu.",
+    "weather_correlation": {
+      "rainfall_mm": 185,
+      "days_heavy_rain": 4,
+      "impact_factor": 0.85
+    }
+  },
+  {
+    "date": "2025-05-26",
+    "commodity_code": "TOMAT",
+    "commodity_name": "Tomat",
+    "region_code": "31",
+    "region_name": "DKI Jakarta",
+    "actual_price": 15000,
+    "expected_price": 8500,
+    "anomaly_score": 0.78,
+    "anomaly_type": "supply_shortage",
+    "severity": "high",
+    "explanation": "Kelangkaan pasokan dari daerah supplier utama (Jawa Barat) karena panen mundur.",
+    "supply_chain_impact": {
+      "supplier_regions": [
+        "32",
+        "33"
+      ],
+      "transport_delay": "2-3 days",
+      "stock_level": "critical"
+    }
+  },
+  {
+    "date": "2025-05-30",
+    "commodity_code": "BAWANG_MERAH",
+    "commodity_name": "Bawang Merah",
+    "region_code": "35",
+    "region_name": "Jawa Timur",
+    "actual_price": 18000,
+    "expected_price": 25000,
+    "anomaly_score": 0.65,
+    "anomaly_type": "price_drop",
+    "severity": "medium",
+    "explanation": "Harga turun karena panen raya simultan di beberapa daerah, menyebabkan oversupply sementara.",
+    "market_dynamics": {
+      "harvest_volume": "+45%",
+      "storage_capacity": "limited",
+      "demand_elasticity": "low"
+    }
+  }
+]

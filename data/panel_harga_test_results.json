@@ -1,0 +1,42 @@
+[
+  {
+    "endpoint": "/api/harga",
+    "url": "https://panelharga.badanpangan.go.id/api/harga",
+    "status_code": 200,
+    "status": "\u2705 Accessible",
+    "content_type": "text/html",
+    "content_length": 7107
+  },
+  {
+    "endpoint": "/api/data",
+    "url": "https://panelharga.badanpangan.go.id/api/data",
+    "status_code": 200,
+    "status": "\u2705 Accessible",
+    "content_type": "text/html",
+    "content_length": 7107
+  },
+  {
+    "endpoint": "/data",
+    "url": "https://panelharga.badanpangan.go.id/data",
+    "status_code": 200,
+    "status": "\u2705 Accessible",
+    "content_type": "text/html",
+    "content_length": 7107
+  },
+  {
+    "endpoint": "/harga",
+    "url": "https://panelharga.badanpangan.go.id/harga",
+    "status_code": 200,
+    "status": "\u2705 Accessible",
+    "content_type": "text/html",
+    "content_length": 7107
+  },
+  {
+    "endpoint": "/api/komoditas",
+    "url": "https://panelharga.badanpangan.go.id/api/komoditas",
+    "status_code": 200,
+    "status": "\u2705 Accessible",
+    "content_type": "text/html",
+    "content_length": 7107
+  }
+]

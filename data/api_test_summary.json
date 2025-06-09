@@ -1,0 +1,29 @@
+{
+  "test_timestamp": "2025-06-07 07:35:38",
+  "apis_tested": [
+    "BMKG Open Data",
+    "Portal Satu Data Indonesia",
+    "Panel Harga Pangan"
+  ],
+  "test_results": {
+    "bmkg": {
+      "total_tested": 5,
+      "successful": 5,
+      "status": "Available"
+    },
+    "data_go_id": {
+      "total_queries": 5,
+      "successful_queries": 0,
+      "total_datasets_found": 0,
+      "status": "Limited"
+    },
+    "panel_harga": {
+      "total_endpoints": 5,
+      "accessible_endpoints": 5,
+      "status": "Available"
+    }
+  },
+  "recommendations": [
+    "BMKG: Data cuaca tersedia melalui XML endpoint - cocok untuk data weather yang mempengaruhi pertanian"
+  ]
+}

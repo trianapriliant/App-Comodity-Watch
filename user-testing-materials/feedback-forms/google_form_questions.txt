@@ -1,0 +1,59 @@
+GOOGLE FORM QUESTIONS - KOMODITAS WATCH USER TESTING
+============================================================
+
+Section 1: Basic Information
+----------------------------
+1. Session ID (facilitator will provide)
+2. Your stakeholder type (Petani/Produsen, Distributor/Trader, Regulator/Peneliti)
+3. Location/Province where you work
+4. Your experience level with digital platforms (Pemula, Menengah, Mahir)
+
+Section 2: Usability Assessment (1-5 scale: 1=Very Difficult, 5=Very Easy)
+--------------------------------------------------------------------------
+1. Finding the information you needed
+2. Navigating between different pages
+3. Understanding the menu structure
+4. Speed of page loading
+5. Visual appearance and design
+6. Text clarity and readability
+7. Size of buttons and interactive elements
+8. How well it works on your device (mobile/desktop)
+
+Section 3: Feature Usefulness (1-5 scale: 1=Not Useful, 5=Very Useful)
+-----------------------------------------------------------------------
+1. Dashboard overview of commodity prices
+2. Price prediction charts (7-30 days)
+3. Regional price distribution map
+4. Weather correlation analysis
+5. Alert system for price changes
+6. Data input functionality
+7. Report generation and export
+
+Section 4: Task Completion
+--------------------------
+1. Were you able to complete the main task assigned to you? (Yes/Partially/No)
+2. How difficult was the task overall? (1-5 scale)
+3. What was the biggest challenge you faced?
+4. What worked well for you?
+
+Section 5: Value Proposition
+----------------------------
+1. How helpful would this platform be for your daily work? (1-5 scale)
+2. What is the biggest benefit you see from this platform?
+3. What improvements are most needed?
+4. Would you be willing to pay for this platform? (Yes/No/Maybe)
+5. If yes, how much per month would be reasonable? (Free only, 25-50k, 50-100k, 100-250k, >250k)
+
+Section 6: Overall Satisfaction
+-------------------------------
+1. How likely are you to recommend this platform to colleagues? (0-10 scale)
+2. Describe this platform in three words
+3. Any other comments or suggestions?
+
+NOTES FOR GOOGLE FORM SETUP:
+- Use section breaks between major categories
+- Make rating questions use linear scale (1-5 or 0-10)
+- Use multiple choice for categorical questions
+- Use paragraph text for open-ended responses
+- Set up response validation where appropriate
+- Enable response editing and progress bar

@@ -1,0 +1,3508 @@
+{
+  "updated": "2025-06-07T12:02:52.000Z",
+  "commodities": [
+    {
+      "id": "beras",
+      "name": "Beras Premium",
+      "unit": "kg",
+      "currentPrice": 14500,
+      "previousPrice": 14200,
+      "change": 2.11,
+      "category": "Pangan Pokok",
+      "description": "Beras premium kualitas terbaik",
+      "volume": 3500000,
+      "marketCap": 50750000000,
+      "volatility": 8.5,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 14100
+        },
+        {
+          "date": "2025-06-02",
+          "price": 14150
+        },
+        {
+          "date": "2025-06-03",
+          "price": 14200
+        },
+        {
+          "date": "2025-06-04",
+          "price": 14300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 14400
+        },
+        {
+          "date": "2025-06-06",
+          "price": 14450
+        },
+        {
+          "date": "2025-06-07",
+          "price": 14500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 14051,
+        "ma14": 13913,
+        "ma30": 13637,
+        "rsi": 47,
+        "bollinger": {
+          "upper": 15950,
+          "middle": 13775,
+          "lower": 13050
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 13818,
+          "high": 14425,
+          "low": 13613,
+          "close": 14100,
+          "volume": 219990
+        },
+        {
+          "time": "2025-06-02",
+          "open": 14100,
+          "high": 14220,
+          "low": 14031,
+          "close": 14150,
+          "volume": 140219
+        },
+        {
+          "time": "2025-06-03",
+          "open": 14150,
+          "high": 14301,
+          "low": 14037,
+          "close": 14200,
+          "volume": 103735
+        },
+        {
+          "time": "2025-06-04",
+          "open": 14200,
+          "high": 14624,
+          "low": 14071,
+          "close": 14300,
+          "volume": 268385
+        },
+        {
+          "time": "2025-06-05",
+          "open": 14300,
+          "high": 14485,
+          "low": 14094,
+          "close": 14400,
+          "volume": 258297
+        },
+        {
+          "time": "2025-06-06",
+          "open": 14400,
+          "high": 14516,
+          "low": 14195,
+          "close": 14450,
+          "volume": 103989
+        },
+        {
+          "time": "2025-06-07",
+          "open": 14450,
+          "high": 14883,
+          "low": 14316,
+          "close": 14500,
+          "volume": 167666
+        }
+      ]
+    },
+    {
+      "id": "jagung",
+      "name": "Jagung Pakan",
+      "unit": "kg",
+      "currentPrice": 4200,
+      "previousPrice": 4100,
+      "change": 2.44,
+      "category": "Pangan Pokok",
+      "description": "Jagung kualitas pakan ternak",
+      "volume": 5000000,
+      "marketCap": 21000000000,
+      "volatility": 12.3,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 4000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 4050
+        },
+        {
+          "date": "2025-06-03",
+          "price": 4100
+        },
+        {
+          "date": "2025-06-04",
+          "price": 4150
+        },
+        {
+          "date": "2025-06-05",
+          "price": 4180
+        },
+        {
+          "date": "2025-06-06",
+          "price": 4190
+        },
+        {
+          "date": "2025-06-07",
+          "price": 4200
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 4070,
+        "ma14": 4030,
+        "ma30": 3950,
+        "rsi": 54.6,
+        "bollinger": {
+          "upper": 4620,
+          "middle": 3990,
+          "lower": 3780
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 3920,
+          "high": 4002,
+          "low": 3862,
+          "close": 4000,
+          "volume": 178499
+        },
+        {
+          "time": "2025-06-02",
+          "open": 4000,
+          "high": 4083,
+          "low": 3966,
+          "close": 4050,
+          "volume": 271637
+        },
+        {
+          "time": "2025-06-03",
+          "open": 4050,
+          "high": 4158,
+          "low": 4042,
+          "close": 4100,
+          "volume": 285241
+        },
+        {
+          "time": "2025-06-04",
+          "open": 4100,
+          "high": 4230,
+          "low": 4037,
+          "close": 4150,
+          "volume": 260765
+        },
+        {
+          "time": "2025-06-05",
+          "open": 4150,
+          "high": 4182,
+          "low": 4085,
+          "close": 4180,
+          "volume": 184966
+        },
+        {
+          "time": "2025-06-06",
+          "open": 4180,
+          "high": 4205,
+          "low": 4139,
+          "close": 4190,
+          "volume": 172455
+        },
+        {
+          "time": "2025-06-07",
+          "open": 4190,
+          "high": 4260,
+          "low": 4141,
+          "close": 4200,
+          "volume": 199065
+        }
+      ]
+    },
+    {
+      "id": "kedelai",
+      "name": "Kedelai Lokal",
+      "unit": "kg",
+      "currentPrice": 8500,
+      "previousPrice": 8200,
+      "change": 3.66,
+      "category": "Pangan Pokok",
+      "description": "Kedelai lokal kualitas premium",
+      "volume": 1200000,
+      "marketCap": 10200000000,
+      "volatility": 15.7,
+      "supplyStatus": "limited",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 8000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 8100
+        },
+        {
+          "date": "2025-06-03",
+          "price": 8200
+        },
+        {
+          "date": "2025-06-04",
+          "price": 8300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 8400
+        },
+        {
+          "date": "2025-06-06",
+          "price": 8450
+        },
+        {
+          "date": "2025-06-07",
+          "price": 8500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 8237,
+        "ma14": 8156,
+        "ma30": 7994,
+        "rsi": 61.4,
+        "bollinger": {
+          "upper": 9350,
+          "middle": 8075,
+          "lower": 7650
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 7840,
+          "high": 8045,
+          "low": 7752,
+          "close": 8000,
+          "volume": 148016
+        },
+        {
+          "time": "2025-06-02",
+          "open": 8000,
+          "high": 8261,
+          "low": 7933,
+          "close": 8100,
+          "volume": 265354
+        },
+        {
+          "time": "2025-06-03",
+          "open": 8100,
+          "high": 8221,
+          "low": 7878,
+          "close": 8200,
+          "volume": 220460
+        },
+        {
+          "time": "2025-06-04",
+          "open": 8200,
+          "high": 8548,
+          "low": 8122,
+          "close": 8300,
+          "volume": 120999
+        },
+        {
+          "time": "2025-06-05",
+          "open": 8300,
+          "high": 8529,
+          "low": 8205,
+          "close": 8400,
+          "volume": 210626
+        },
+        {
+          "time": "2025-06-06",
+          "open": 8400,
+          "high": 8658,
+          "low": 8164,
+          "close": 8450,
+          "volume": 141461
+        },
+        {
+          "time": "2025-06-07",
+          "open": 8450,
+          "high": 8614,
+          "low": 8304,
+          "close": 8500,
+          "volume": 236505
+        }
+      ]
+    },
+    {
+      "id": "gula",
+      "name": "Gula Pasir",
+      "unit": "kg",
+      "currentPrice": 15200,
+      "previousPrice": 15000,
+      "change": 1.33,
+      "category": "Pangan Pokok",
+      "description": "Gula pasir kristal putih",
+      "volume": 2800000,
+      "marketCap": 42560000000,
+      "volatility": 9.2,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 14900
+        },
+        {
+          "date": "2025-06-02",
+          "price": 14950
+        },
+        {
+          "date": "2025-06-03",
+          "price": 15000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 15050
+        },
+        {
+          "date": "2025-06-05",
+          "price": 15100
+        },
+        {
+          "date": "2025-06-06",
+          "price": 15150
+        },
+        {
+          "date": "2025-06-07",
+          "price": 15200
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 14729,
+        "ma14": 14584,
+        "ma30": 14296,
+        "rsi": 48.4,
+        "bollinger": {
+          "upper": 16720,
+          "middle": 14440,
+          "lower": 13680
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 14602,
+          "high": 14908,
+          "low": 14569,
+          "close": 14900,
+          "volume": 183348
+        },
+        {
+          "time": "2025-06-02",
+          "open": 14900,
+          "high": 15100,
+          "low": 14778,
+          "close": 14950,
+          "volume": 188415
+        },
+        {
+          "time": "2025-06-03",
+          "open": 14950,
+          "high": 15178,
+          "low": 14754,
+          "close": 15000,
+          "volume": 123638
+        },
+        {
+          "time": "2025-06-04",
+          "open": 15000,
+          "high": 15333,
+          "low": 14960,
+          "close": 15050,
+          "volume": 113954
+        },
+        {
+          "time": "2025-06-05",
+          "open": 15050,
+          "high": 15493,
+          "low": 15021,
+          "close": 15100,
+          "volume": 282704
+        },
+        {
+          "time": "2025-06-06",
+          "open": 15100,
+          "high": 15424,
+          "low": 14860,
+          "close": 15150,
+          "volume": 182695
+        },
+        {
+          "time": "2025-06-07",
+          "open": 15150,
+          "high": 15546,
+          "low": 14699,
+          "close": 15200,
+          "volume": 162415
+        }
+      ]
+    },
+    {
+      "id": "garam",
+      "name": "Garam Konsumsi",
+      "unit": "kg",
+      "currentPrice": 3500,
+      "previousPrice": 3400,
+      "change": 2.94,
+      "category": "Pangan Pokok",
+      "description": "Garam konsumsi beryodium",
+      "volume": 1500000,
+      "marketCap": 5250000000,
+      "volatility": 6.8,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 3350
+        },
+        {
+          "date": "2025-06-02",
+          "price": 3370
+        },
+        {
+          "date": "2025-06-03",
+          "price": 3400
+        },
+        {
+          "date": "2025-06-04",
+          "price": 3420
+        },
+        {
+          "date": "2025-06-05",
+          "price": 3450
+        },
+        {
+          "date": "2025-06-06",
+          "price": 3480
+        },
+        {
+          "date": "2025-06-07",
+          "price": 3500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 3392,
+        "ma14": 3358,
+        "ma30": 3292,
+        "rsi": 43.6,
+        "bollinger": {
+          "upper": 3850,
+          "middle": 3325,
+          "lower": 3150
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 3283,
+          "high": 3361,
+          "low": 3238,
+          "close": 3350,
+          "volume": 143362
+        },
+        {
+          "time": "2025-06-02",
+          "open": 3350,
+          "high": 3378,
+          "low": 3338,
+          "close": 3370,
+          "volume": 280357
+        },
+        {
+          "time": "2025-06-03",
+          "open": 3370,
+          "high": 3421,
+          "low": 3344,
+          "close": 3400,
+          "volume": 107105
+        },
+        {
+          "time": "2025-06-04",
+          "open": 3400,
+          "high": 3511,
+          "low": 3321,
+          "close": 3420,
+          "volume": 126309
+        },
+        {
+          "time": "2025-06-05",
+          "open": 3420,
+          "high": 3486,
+          "low": 3365,
+          "close": 3450,
+          "volume": 143437
+        },
+        {
+          "time": "2025-06-06",
+          "open": 3450,
+          "high": 3540,
+          "low": 3421,
+          "close": 3480,
+          "volume": 165179
+        },
+        {
+          "time": "2025-06-07",
+          "open": 3480,
+          "high": 3582,
+          "low": 3400,
+          "close": 3500,
+          "volume": 148588
+        }
+      ]
+    },
+    {
+      "id": "daging-ayam",
+      "name": "Daging Ayam Broiler",
+      "unit": "kg",
+      "currentPrice": 32000,
+      "previousPrice": 31500,
+      "change": 1.59,
+      "category": "Pangan Pokok",
+      "description": "Daging ayam broiler segar",
+      "volume": 2200000,
+      "marketCap": 70400000000,
+      "volatility": 11.4,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 31000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 31200
+        },
+        {
+          "date": "2025-06-03",
+          "price": 31500
+        },
+        {
+          "date": "2025-06-04",
+          "price": 31700
+        },
+        {
+          "date": "2025-06-05",
+          "price": 31800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 31900
+        },
+        {
+          "date": "2025-06-07",
+          "price": 32000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 31008,
+        "ma14": 30704,
+        "ma30": 30096,
+        "rsi": 52.8,
+        "bollinger": {
+          "upper": 35200,
+          "middle": 30400,
+          "lower": 28800
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 30380,
+          "high": 31450,
+          "low": 30145,
+          "close": 31000,
+          "volume": 225465
+        },
+        {
+          "time": "2025-06-02",
+          "open": 31000,
+          "high": 31638,
+          "low": 30675,
+          "close": 31200,
+          "volume": 246955
+        },
+        {
+          "time": "2025-06-03",
+          "open": 31200,
+          "high": 32193,
+          "low": 30309,
+          "close": 31500,
+          "volume": 108557
+        },
+        {
+          "time": "2025-06-04",
+          "open": 31500,
+          "high": 32177,
+          "low": 30727,
+          "close": 31700,
+          "volume": 158635
+        },
+        {
+          "time": "2025-06-05",
+          "open": 31700,
+          "high": 32448,
+          "low": 30845,
+          "close": 31800,
+          "volume": 278716
+        },
+        {
+          "time": "2025-06-06",
+          "open": 31800,
+          "high": 32113,
+          "low": 31406,
+          "close": 31900,
+          "volume": 269621
+        },
+        {
+          "time": "2025-06-07",
+          "open": 31900,
+          "high": 32818,
+          "low": 30958,
+          "close": 32000,
+          "volume": 265408
+        }
+      ]
+    },
+    {
+      "id": "daging-sapi",
+      "name": "Daging Sapi",
+      "unit": "kg",
+      "currentPrice": 130000,
+      "previousPrice": 128000,
+      "change": 1.56,
+      "category": "Pangan Pokok",
+      "description": "Daging sapi lokal segar",
+      "volume": 450000,
+      "marketCap": 58500000000,
+      "volatility": 7.9,
+      "supplyStatus": "limited",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 127000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 127500
+        },
+        {
+          "date": "2025-06-03",
+          "price": 128000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 128500
+        },
+        {
+          "date": "2025-06-05",
+          "price": 129000
+        },
+        {
+          "date": "2025-06-06",
+          "price": 129500
+        },
+        {
+          "date": "2025-06-07",
+          "price": 130000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 125970,
+        "ma14": 124735,
+        "ma30": 122265,
+        "rsi": 45.8,
+        "bollinger": {
+          "upper": 143000,
+          "middle": 123500,
+          "lower": 117000
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 124460,
+          "high": 128211,
+          "low": 123748,
+          "close": 127000,
+          "volume": 192144
+        },
+        {
+          "time": "2025-06-02",
+          "open": 127000,
+          "high": 130935,
+          "low": 125840,
+          "close": 127500,
+          "volume": 277805
+        },
+        {
+          "time": "2025-06-03",
+          "open": 127500,
+          "high": 131096,
+          "low": 125740,
+          "close": 128000,
+          "volume": 216567
+        },
+        {
+          "time": "2025-06-04",
+          "open": 128000,
+          "high": 129566,
+          "low": 127580,
+          "close": 128500,
+          "volume": 195354
+        },
+        {
+          "time": "2025-06-05",
+          "open": 128500,
+          "high": 130753,
+          "low": 127169,
+          "close": 129000,
+          "volume": 122320
+        },
+        {
+          "time": "2025-06-06",
+          "open": 129000,
+          "high": 132702,
+          "low": 126845,
+          "close": 129500,
+          "volume": 275747
+        },
+        {
+          "time": "2025-06-07",
+          "open": 129500,
+          "high": 130515,
+          "low": 129036,
+          "close": 130000,
+          "volume": 219194
+        }
+      ]
+    },
+    {
+      "id": "cabai",
+      "name": "Cabai Merah",
+      "unit": "kg",
+      "currentPrice": 42500,
+      "previousPrice": 38000,
+      "change": 11.84,
+      "category": "Sayuran",
+      "description": "Cabai merah segar kualitas premium",
+      "volume": 1250000,
+      "marketCap": 53125000000,
+      "volatility": 24.5,
+      "supplyStatus": "moderate",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 35000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 36000
+        },
+        {
+          "date": "2025-06-03",
+          "price": 38000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 40000
+        },
+        {
+          "date": "2025-06-05",
+          "price": 41000
+        },
+        {
+          "date": "2025-06-06",
+          "price": 42000
+        },
+        {
+          "date": "2025-06-07",
+          "price": 42500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 41183,
+        "ma14": 40779,
+        "ma30": 39971,
+        "rsi": 79,
+        "bollinger": {
+          "upper": 46750,
+          "middle": 40375,
+          "lower": 38250
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 34300,
+          "high": 35240,
+          "low": 33285,
+          "close": 35000,
+          "volume": 178408
+        },
+        {
+          "time": "2025-06-02",
+          "open": 35000,
+          "high": 36702,
+          "low": 34626,
+          "close": 36000,
+          "volume": 233043
+        },
+        {
+          "time": "2025-06-03",
+          "open": 36000,
+          "high": 38156,
+          "low": 35017,
+          "close": 38000,
+          "volume": 219137
+        },
+        {
+          "time": "2025-06-04",
+          "open": 38000,
+          "high": 40581,
+          "low": 37581,
+          "close": 40000,
+          "volume": 141984
+        },
+        {
+          "time": "2025-06-05",
+          "open": 40000,
+          "high": 41931,
+          "low": 39755,
+          "close": 41000,
+          "volume": 271572
+        },
+        {
+          "time": "2025-06-06",
+          "open": 41000,
+          "high": 42888,
+          "low": 40991,
+          "close": 42000,
+          "volume": 216739
+        },
+        {
+          "time": "2025-06-07",
+          "open": 42000,
+          "high": 43276,
+          "low": 41320,
+          "close": 42500,
+          "volume": 228018
+        }
+      ]
+    },
+    {
+      "id": "bawang-merah",
+      "name": "Bawang Merah",
+      "unit": "kg",
+      "currentPrice": 28500,
+      "previousPrice": 27000,
+      "change": 5.56,
+      "category": "Sayuran",
+      "description": "Bawang merah lokal segar",
+      "volume": 800000,
+      "marketCap": 22800000000,
+      "volatility": 19.3,
+      "supplyStatus": "moderate",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 26000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 26500
+        },
+        {
+          "date": "2025-06-03",
+          "price": 27000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 27500
+        },
+        {
+          "date": "2025-06-05",
+          "price": 28000
+        },
+        {
+          "date": "2025-06-06",
+          "price": 28200
+        },
+        {
+          "date": "2025-06-07",
+          "price": 28500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 27617,
+        "ma14": 27346,
+        "ma30": 26804,
+        "rsi": 68.6,
+        "bollinger": {
+          "upper": 31350,
+          "middle": 27075,
+          "lower": 25650
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 25480,
+          "high": 26385,
+          "low": 25446,
+          "close": 26000,
+          "volume": 146702
+        },
+        {
+          "time": "2025-06-02",
+          "open": 26000,
+          "high": 26835,
+          "low": 25385,
+          "close": 26500,
+          "volume": 145789
+        },
+        {
+          "time": "2025-06-03",
+          "open": 26500,
+          "high": 27298,
+          "low": 26258,
+          "close": 27000,
+          "volume": 193256
+        },
+        {
+          "time": "2025-06-04",
+          "open": 27000,
+          "high": 27685,
+          "low": 26937,
+          "close": 27500,
+          "volume": 293796
+        },
+        {
+          "time": "2025-06-05",
+          "open": 27500,
+          "high": 28179,
+          "low": 26709,
+          "close": 28000,
+          "volume": 287848
+        },
+        {
+          "time": "2025-06-06",
+          "open": 28000,
+          "high": 28270,
+          "low": 27752,
+          "close": 28200,
+          "volume": 256124
+        },
+        {
+          "time": "2025-06-07",
+          "open": 28200,
+          "high": 28611,
+          "low": 28134,
+          "close": 28500,
+          "volume": 178809
+        }
+      ]
+    },
+    {
+      "id": "bawang-putih",
+      "name": "Bawang Putih",
+      "unit": "kg",
+      "currentPrice": 35000,
+      "previousPrice": 34000,
+      "change": 2.94,
+      "category": "Sayuran",
+      "description": "Bawang putih kualitas premium",
+      "volume": 600000,
+      "marketCap": 21000000000,
+      "volatility": 13.7,
+      "supplyStatus": "limited",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 33500
+        },
+        {
+          "date": "2025-06-02",
+          "price": 33700
+        },
+        {
+          "date": "2025-06-03",
+          "price": 34000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 34300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 34600
+        },
+        {
+          "date": "2025-06-06",
+          "price": 34800
+        },
+        {
+          "date": "2025-06-07",
+          "price": 35000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 33915,
+        "ma14": 33583,
+        "ma30": 32918,
+        "rsi": 57.4,
+        "bollinger": {
+          "upper": 38500,
+          "middle": 33250,
+          "lower": 31500
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 32830,
+          "high": 34430,
+          "low": 32263,
+          "close": 33500,
+          "volume": 282651
+        },
+        {
+          "time": "2025-06-02",
+          "open": 33500,
+          "high": 33992,
+          "low": 33393,
+          "close": 33700,
+          "volume": 140428
+        },
+        {
+          "time": "2025-06-03",
+          "open": 33700,
+          "high": 34066,
+          "low": 33025,
+          "close": 34000,
+          "volume": 258047
+        },
+        {
+          "time": "2025-06-04",
+          "open": 34000,
+          "high": 34474,
+          "low": 33268,
+          "close": 34300,
+          "volume": 121280
+        },
+        {
+          "time": "2025-06-05",
+          "open": 34300,
+          "high": 35142,
+          "low": 33646,
+          "close": 34600,
+          "volume": 251761
+        },
+        {
+          "time": "2025-06-06",
+          "open": 34600,
+          "high": 35052,
+          "low": 34548,
+          "close": 34800,
+          "volume": 204301
+        },
+        {
+          "time": "2025-06-07",
+          "open": 34800,
+          "high": 35355,
+          "low": 34223,
+          "close": 35000,
+          "volume": 217730
+        }
+      ]
+    },
+    {
+      "id": "tomat",
+      "name": "Tomat",
+      "unit": "kg",
+      "currentPrice": 8500,
+      "previousPrice": 9200,
+      "change": -7.61,
+      "category": "Sayuran",
+      "description": "Tomat segar kualitas ekspor",
+      "volume": 2100000,
+      "marketCap": 17850000000,
+      "volatility": 18.2,
+      "supplyStatus": "abundant",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 9500
+        },
+        {
+          "date": "2025-06-02",
+          "price": 9400
+        },
+        {
+          "date": "2025-06-03",
+          "price": 9200
+        },
+        {
+          "date": "2025-06-04",
+          "price": 9000
+        },
+        {
+          "date": "2025-06-05",
+          "price": 8800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 8600
+        },
+        {
+          "date": "2025-06-07",
+          "price": 8500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 8237,
+        "ma14": 8156,
+        "ma30": 7994,
+        "rsi": 66.4,
+        "bollinger": {
+          "upper": 9350,
+          "middle": 8075,
+          "lower": 7650
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 9310,
+          "high": 9621,
+          "low": 9112,
+          "close": 9500,
+          "volume": 218854
+        },
+        {
+          "time": "2025-06-02",
+          "open": 9500,
+          "high": 9583,
+          "low": 9182,
+          "close": 9400,
+          "volume": 143973
+        },
+        {
+          "time": "2025-06-03",
+          "open": 9400,
+          "high": 9478,
+          "low": 9019,
+          "close": 9200,
+          "volume": 110784
+        },
+        {
+          "time": "2025-06-04",
+          "open": 9200,
+          "high": 9391,
+          "low": 8906,
+          "close": 9000,
+          "volume": 118375
+        },
+        {
+          "time": "2025-06-05",
+          "open": 9000,
+          "high": 9098,
+          "low": 8642,
+          "close": 8800,
+          "volume": 154867
+        },
+        {
+          "time": "2025-06-06",
+          "open": 8800,
+          "high": 9026,
+          "low": 8562,
+          "close": 8600,
+          "volume": 100901
+        },
+        {
+          "time": "2025-06-07",
+          "open": 8600,
+          "high": 8695,
+          "low": 8252,
+          "close": 8500,
+          "volume": 126202
+        }
+      ]
+    },
+    {
+      "id": "kentang",
+      "name": "Kentang",
+      "unit": "kg",
+      "currentPrice": 12000,
+      "previousPrice": 11500,
+      "change": 4.35,
+      "category": "Sayuran",
+      "description": "Kentang granola segar",
+      "volume": 1400000,
+      "marketCap": 16800000000,
+      "volatility": 14.6,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 11200
+        },
+        {
+          "date": "2025-06-02",
+          "price": 11300
+        },
+        {
+          "date": "2025-06-03",
+          "price": 11500
+        },
+        {
+          "date": "2025-06-04",
+          "price": 11700
+        },
+        {
+          "date": "2025-06-05",
+          "price": 11800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 11900
+        },
+        {
+          "date": "2025-06-07",
+          "price": 12000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 11628,
+        "ma14": 11514,
+        "ma30": 11286,
+        "rsi": 59.2,
+        "bollinger": {
+          "upper": 13200,
+          "middle": 11400,
+          "lower": 10800
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 10976,
+          "high": 11202,
+          "low": 10824,
+          "close": 11200,
+          "volume": 209435
+        },
+        {
+          "time": "2025-06-02",
+          "open": 11200,
+          "high": 11369,
+          "low": 11011,
+          "close": 11300,
+          "volume": 124811
+        },
+        {
+          "time": "2025-06-03",
+          "open": 11300,
+          "high": 11576,
+          "low": 11226,
+          "close": 11500,
+          "volume": 136560
+        },
+        {
+          "time": "2025-06-04",
+          "open": 11500,
+          "high": 11810,
+          "low": 11161,
+          "close": 11700,
+          "volume": 226072
+        },
+        {
+          "time": "2025-06-05",
+          "open": 11700,
+          "high": 12026,
+          "low": 11395,
+          "close": 11800,
+          "volume": 258447
+        },
+        {
+          "time": "2025-06-06",
+          "open": 11800,
+          "high": 12059,
+          "low": 11489,
+          "close": 11900,
+          "volume": 124608
+        },
+        {
+          "time": "2025-06-07",
+          "open": 11900,
+          "high": 12044,
+          "low": 11621,
+          "close": 12000,
+          "volume": 196286
+        }
+      ]
+    },
+    {
+      "id": "wortel",
+      "name": "Wortel",
+      "unit": "kg",
+      "currentPrice": 7500,
+      "previousPrice": 7200,
+      "change": 4.17,
+      "category": "Sayuran",
+      "description": "Wortel segar kualitas premium",
+      "volume": 900000,
+      "marketCap": 6750000000,
+      "volatility": 12.1,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 7000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 7100
+        },
+        {
+          "date": "2025-06-03",
+          "price": 7200
+        },
+        {
+          "date": "2025-06-04",
+          "price": 7300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 7400
+        },
+        {
+          "date": "2025-06-06",
+          "price": 7450
+        },
+        {
+          "date": "2025-06-07",
+          "price": 7500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 7268,
+        "ma14": 7196,
+        "ma30": 7054,
+        "rsi": 54.2,
+        "bollinger": {
+          "upper": 8250,
+          "middle": 7125,
+          "lower": 6750
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 6860,
+          "high": 7010,
+          "low": 6816,
+          "close": 7000,
+          "volume": 175736
+        },
+        {
+          "time": "2025-06-02",
+          "open": 7000,
+          "high": 7272,
+          "low": 6891,
+          "close": 7100,
+          "volume": 225575
+        },
+        {
+          "time": "2025-06-03",
+          "open": 7100,
+          "high": 7261,
+          "low": 6956,
+          "close": 7200,
+          "volume": 246524
+        },
+        {
+          "time": "2025-06-04",
+          "open": 7200,
+          "high": 7387,
+          "low": 7022,
+          "close": 7300,
+          "volume": 200449
+        },
+        {
+          "time": "2025-06-05",
+          "open": 7300,
+          "high": 7494,
+          "low": 7244,
+          "close": 7400,
+          "volume": 268580
+        },
+        {
+          "time": "2025-06-06",
+          "open": 7400,
+          "high": 7651,
+          "low": 7271,
+          "close": 7450,
+          "volume": 208117
+        },
+        {
+          "time": "2025-06-07",
+          "open": 7450,
+          "high": 7638,
+          "low": 7255,
+          "close": 7500,
+          "volume": 183784
+        }
+      ]
+    },
+    {
+      "id": "kangkung",
+      "name": "Kangkung",
+      "unit": "kg",
+      "currentPrice": 3500,
+      "previousPrice": 3200,
+      "change": 9.38,
+      "category": "Sayuran",
+      "description": "Kangkung darat segar",
+      "volume": 750000,
+      "marketCap": 2625000000,
+      "volatility": 16.8,
+      "supplyStatus": "abundant",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 3000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 3100
+        },
+        {
+          "date": "2025-06-03",
+          "price": 3200
+        },
+        {
+          "date": "2025-06-04",
+          "price": 3300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 3400
+        },
+        {
+          "date": "2025-06-06",
+          "price": 3450
+        },
+        {
+          "date": "2025-06-07",
+          "price": 3500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 3392,
+        "ma14": 3358,
+        "ma30": 3292,
+        "rsi": 63.6,
+        "bollinger": {
+          "upper": 3850,
+          "middle": 3325,
+          "lower": 3150
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 2940,
+          "high": 3059,
+          "low": 2865,
+          "close": 3000,
+          "volume": 183720
+        },
+        {
+          "time": "2025-06-02",
+          "open": 3000,
+          "high": 3129,
+          "low": 2942,
+          "close": 3100,
+          "volume": 221113
+        },
+        {
+          "time": "2025-06-03",
+          "open": 3100,
+          "high": 3253,
+          "low": 3040,
+          "close": 3200,
+          "volume": 228318
+        },
+        {
+          "time": "2025-06-04",
+          "open": 3200,
+          "high": 3381,
+          "low": 3157,
+          "close": 3300,
+          "volume": 162995
+        },
+        {
+          "time": "2025-06-05",
+          "open": 3300,
+          "high": 3497,
+          "low": 3222,
+          "close": 3400,
+          "volume": 271734
+        },
+        {
+          "time": "2025-06-06",
+          "open": 3400,
+          "high": 3495,
+          "low": 3320,
+          "close": 3450,
+          "volume": 133197
+        },
+        {
+          "time": "2025-06-07",
+          "open": 3450,
+          "high": 3603,
+          "low": 3367,
+          "close": 3500,
+          "volume": 233567
+        }
+      ]
+    },
+    {
+      "id": "pisang",
+      "name": "Pisang Cavendish",
+      "unit": "kg",
+      "currentPrice": 15000,
+      "previousPrice": 14500,
+      "change": 3.45,
+      "category": "Buah",
+      "description": "Pisang cavendish kualitas ekspor",
+      "volume": 1800000,
+      "marketCap": 27000000000,
+      "volatility": 10.3,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 14200
+        },
+        {
+          "date": "2025-06-02",
+          "price": 14300
+        },
+        {
+          "date": "2025-06-03",
+          "price": 14500
+        },
+        {
+          "date": "2025-06-04",
+          "price": 14700
+        },
+        {
+          "date": "2025-06-05",
+          "price": 14800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 14900
+        },
+        {
+          "date": "2025-06-07",
+          "price": 15000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 14535,
+        "ma14": 14393,
+        "ma30": 14108,
+        "rsi": 50.6,
+        "bollinger": {
+          "upper": 16500,
+          "middle": 14250,
+          "lower": 13500
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 13916,
+          "high": 14482,
+          "low": 13546,
+          "close": 14200,
+          "volume": 208177
+        },
+        {
+          "time": "2025-06-02",
+          "open": 14200,
+          "high": 14419,
+          "low": 14164,
+          "close": 14300,
+          "volume": 213846
+        },
+        {
+          "time": "2025-06-03",
+          "open": 14300,
+          "high": 14801,
+          "low": 13931,
+          "close": 14500,
+          "volume": 123969
+        },
+        {
+          "time": "2025-06-04",
+          "open": 14500,
+          "high": 15054,
+          "low": 14093,
+          "close": 14700,
+          "volume": 281476
+        },
+        {
+          "time": "2025-06-05",
+          "open": 14700,
+          "high": 15236,
+          "low": 14419,
+          "close": 14800,
+          "volume": 151830
+        },
+        {
+          "time": "2025-06-06",
+          "open": 14800,
+          "high": 15102,
+          "low": 14484,
+          "close": 14900,
+          "volume": 281546
+        },
+        {
+          "time": "2025-06-07",
+          "open": 14900,
+          "high": 15382,
+          "low": 14773,
+          "close": 15000,
+          "volume": 207366
+        }
+      ]
+    },
+    {
+      "id": "jeruk",
+      "name": "Jeruk Manis",
+      "unit": "kg",
+      "currentPrice": 18000,
+      "previousPrice": 17500,
+      "change": 2.86,
+      "category": "Buah",
+      "description": "Jeruk manis lokal segar",
+      "volume": 1200000,
+      "marketCap": 21600000000,
+      "volatility": 11.7,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 17000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 17200
+        },
+        {
+          "date": "2025-06-03",
+          "price": 17500
+        },
+        {
+          "date": "2025-06-04",
+          "price": 17700
+        },
+        {
+          "date": "2025-06-05",
+          "price": 17800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 17900
+        },
+        {
+          "date": "2025-06-07",
+          "price": 18000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 17442,
+        "ma14": 17271,
+        "ma30": 16929,
+        "rsi": 53.4,
+        "bollinger": {
+          "upper": 19800,
+          "middle": 17100,
+          "lower": 16200
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 16660,
+          "high": 17204,
+          "low": 16291,
+          "close": 17000,
+          "volume": 252409
+        },
+        {
+          "time": "2025-06-02",
+          "open": 17000,
+          "high": 17692,
+          "low": 16686,
+          "close": 17200,
+          "volume": 226264
+        },
+        {
+          "time": "2025-06-03",
+          "open": 17200,
+          "high": 17758,
+          "low": 16840,
+          "close": 17500,
+          "volume": 161056
+        },
+        {
+          "time": "2025-06-04",
+          "open": 17500,
+          "high": 18145,
+          "low": 17451,
+          "close": 17700,
+          "volume": 269959
+        },
+        {
+          "time": "2025-06-05",
+          "open": 17700,
+          "high": 17811,
+          "low": 17612,
+          "close": 17800,
+          "volume": 201289
+        },
+        {
+          "time": "2025-06-06",
+          "open": 17800,
+          "high": 18308,
+          "low": 17633,
+          "close": 17900,
+          "volume": 186133
+        },
+        {
+          "time": "2025-06-07",
+          "open": 17900,
+          "high": 18113,
+          "low": 17644,
+          "close": 18000,
+          "volume": 122811
+        }
+      ]
+    },
+    {
+      "id": "mangga",
+      "name": "Mangga Gedong",
+      "unit": "kg",
+      "currentPrice": 22000,
+      "previousPrice": 21000,
+      "change": 4.76,
+      "category": "Buah",
+      "description": "Mangga gedong manis",
+      "volume": 800000,
+      "marketCap": 17600000000,
+      "volatility": 15.2,
+      "supplyStatus": "seasonal",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 20000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 20500
+        },
+        {
+          "date": "2025-06-03",
+          "price": 21000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 21300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 21600
+        },
+        {
+          "date": "2025-06-06",
+          "price": 21800
+        },
+        {
+          "date": "2025-06-07",
+          "price": 22000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 21318,
+        "ma14": 21109,
+        "ma30": 20691,
+        "rsi": 60.4,
+        "bollinger": {
+          "upper": 24200,
+          "middle": 20900,
+          "lower": 19800
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 19600,
+          "high": 20072,
+          "low": 19033,
+          "close": 20000,
+          "volume": 236229
+        },
+        {
+          "time": "2025-06-02",
+          "open": 20000,
+          "high": 20966,
+          "low": 19643,
+          "close": 20500,
+          "volume": 174672
+        },
+        {
+          "time": "2025-06-03",
+          "open": 20500,
+          "high": 21336,
+          "low": 20173,
+          "close": 21000,
+          "volume": 195049
+        },
+        {
+          "time": "2025-06-04",
+          "open": 21000,
+          "high": 21927,
+          "low": 20690,
+          "close": 21300,
+          "volume": 290446
+        },
+        {
+          "time": "2025-06-05",
+          "open": 21300,
+          "high": 21858,
+          "low": 20719,
+          "close": 21600,
+          "volume": 130921
+        },
+        {
+          "time": "2025-06-06",
+          "open": 21600,
+          "high": 22285,
+          "low": 21499,
+          "close": 21800,
+          "volume": 126318
+        },
+        {
+          "time": "2025-06-07",
+          "open": 21800,
+          "high": 22567,
+          "low": 21412,
+          "close": 22000,
+          "volume": 153399
+        }
+      ]
+    },
+    {
+      "id": "semangka",
+      "name": "Semangka",
+      "unit": "kg",
+      "currentPrice": 4500,
+      "previousPrice": 4200,
+      "change": 7.14,
+      "category": "Buah",
+      "description": "Semangka merah manis",
+      "volume": 2500000,
+      "marketCap": 11250000000,
+      "volatility": 13.4,
+      "supplyStatus": "abundant",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 4000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 4100
+        },
+        {
+          "date": "2025-06-03",
+          "price": 4200
+        },
+        {
+          "date": "2025-06-04",
+          "price": 4300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 4400
+        },
+        {
+          "date": "2025-06-06",
+          "price": 4450
+        },
+        {
+          "date": "2025-06-07",
+          "price": 4500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 4361,
+        "ma14": 4318,
+        "ma30": 4232,
+        "rsi": 56.8,
+        "bollinger": {
+          "upper": 4950,
+          "middle": 4275,
+          "lower": 4050
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 3920,
+          "high": 4066,
+          "low": 3861,
+          "close": 4000,
+          "volume": 105653
+        },
+        {
+          "time": "2025-06-02",
+          "open": 4000,
+          "high": 4169,
+          "low": 3893,
+          "close": 4100,
+          "volume": 162895
+        },
+        {
+          "time": "2025-06-03",
+          "open": 4100,
+          "high": 4275,
+          "low": 4046,
+          "close": 4200,
+          "volume": 252433
+        },
+        {
+          "time": "2025-06-04",
+          "open": 4200,
+          "high": 4387,
+          "low": 4158,
+          "close": 4300,
+          "volume": 287075
+        },
+        {
+          "time": "2025-06-05",
+          "open": 4300,
+          "high": 4501,
+          "low": 4245,
+          "close": 4400,
+          "volume": 270553
+        },
+        {
+          "time": "2025-06-06",
+          "open": 4400,
+          "high": 4519,
+          "low": 4353,
+          "close": 4450,
+          "volume": 108369
+        },
+        {
+          "time": "2025-06-07",
+          "open": 4450,
+          "high": 4551,
+          "low": 4330,
+          "close": 4500,
+          "volume": 243780
+        }
+      ]
+    },
+    {
+      "id": "apel",
+      "name": "Apel Malang",
+      "unit": "kg",
+      "currentPrice": 25000,
+      "previousPrice": 24000,
+      "change": 4.17,
+      "category": "Buah",
+      "description": "Apel malang varietas manalagi",
+      "volume": 600000,
+      "marketCap": 15000000000,
+      "volatility": 12.8,
+      "supplyStatus": "seasonal",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 23500
+        },
+        {
+          "date": "2025-06-02",
+          "price": 23700
+        },
+        {
+          "date": "2025-06-03",
+          "price": 24000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 24300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 24600
+        },
+        {
+          "date": "2025-06-06",
+          "price": 24800
+        },
+        {
+          "date": "2025-06-07",
+          "price": 25000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 24225,
+        "ma14": 23988,
+        "ma30": 23513,
+        "rsi": 55.6,
+        "bollinger": {
+          "upper": 27500,
+          "middle": 23750,
+          "lower": 22500
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 23030,
+          "high": 23683,
+          "low": 22406,
+          "close": 23500,
+          "volume": 123466
+        },
+        {
+          "time": "2025-06-02",
+          "open": 23500,
+          "high": 24122,
+          "low": 22839,
+          "close": 23700,
+          "volume": 157454
+        },
+        {
+          "time": "2025-06-03",
+          "open": 23700,
+          "high": 24113,
+          "low": 23337,
+          "close": 24000,
+          "volume": 181992
+        },
+        {
+          "time": "2025-06-04",
+          "open": 24000,
+          "high": 24429,
+          "low": 23513,
+          "close": 24300,
+          "volume": 129509
+        },
+        {
+          "time": "2025-06-05",
+          "open": 24300,
+          "high": 24777,
+          "low": 24022,
+          "close": 24600,
+          "volume": 211160
+        },
+        {
+          "time": "2025-06-06",
+          "open": 24600,
+          "high": 25414,
+          "low": 24582,
+          "close": 24800,
+          "volume": 215519
+        },
+        {
+          "time": "2025-06-07",
+          "open": 24800,
+          "high": 25536,
+          "low": 24228,
+          "close": 25000,
+          "volume": 153649
+        }
+      ]
+    },
+    {
+      "id": "pepaya",
+      "name": "Pepaya California",
+      "unit": "kg",
+      "currentPrice": 8000,
+      "previousPrice": 7500,
+      "change": 6.67,
+      "category": "Buah",
+      "description": "Pepaya california manis",
+      "volume": 1100000,
+      "marketCap": 8800000000,
+      "volatility": 14.1,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 7200
+        },
+        {
+          "date": "2025-06-02",
+          "price": 7300
+        },
+        {
+          "date": "2025-06-03",
+          "price": 7500
+        },
+        {
+          "date": "2025-06-04",
+          "price": 7700
+        },
+        {
+          "date": "2025-06-05",
+          "price": 7800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 7900
+        },
+        {
+          "date": "2025-06-07",
+          "price": 8000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 7752,
+        "ma14": 7676,
+        "ma30": 7524,
+        "rsi": 58.2,
+        "bollinger": {
+          "upper": 8800,
+          "middle": 7600,
+          "lower": 7200
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 7056,
+          "high": 7278,
+          "low": 6989,
+          "close": 7200,
+          "volume": 252286
+        },
+        {
+          "time": "2025-06-02",
+          "open": 7200,
+          "high": 7514,
+          "low": 7026,
+          "close": 7300,
+          "volume": 216740
+        },
+        {
+          "time": "2025-06-03",
+          "open": 7300,
+          "high": 7698,
+          "low": 7234,
+          "close": 7500,
+          "volume": 272025
+        },
+        {
+          "time": "2025-06-04",
+          "open": 7500,
+          "high": 7760,
+          "low": 7468,
+          "close": 7700,
+          "volume": 237315
+        },
+        {
+          "time": "2025-06-05",
+          "open": 7700,
+          "high": 7987,
+          "low": 7657,
+          "close": 7800,
+          "volume": 185279
+        },
+        {
+          "time": "2025-06-06",
+          "open": 7800,
+          "high": 8112,
+          "low": 7662,
+          "close": 7900,
+          "volume": 180636
+        },
+        {
+          "time": "2025-06-07",
+          "open": 7900,
+          "high": 8230,
+          "low": 7710,
+          "close": 8000,
+          "volume": 128816
+        }
+      ]
+    },
+    {
+      "id": "kelapa-sawit",
+      "name": "TBS Kelapa Sawit",
+      "unit": "kg",
+      "currentPrice": 1650,
+      "previousPrice": 1600,
+      "change": 3.13,
+      "category": "Perkebunan",
+      "description": "Tandan buah segar kelapa sawit",
+      "volume": 45000000,
+      "marketCap": 74250000000,
+      "volatility": 8.7,
+      "supplyStatus": "abundant",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 1580
+        },
+        {
+          "date": "2025-06-02",
+          "price": 1590
+        },
+        {
+          "date": "2025-06-03",
+          "price": 1600
+        },
+        {
+          "date": "2025-06-04",
+          "price": 1620
+        },
+        {
+          "date": "2025-06-05",
+          "price": 1630
+        },
+        {
+          "date": "2025-06-06",
+          "price": 1640
+        },
+        {
+          "date": "2025-06-07",
+          "price": 1650
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 1599,
+        "ma14": 1583,
+        "ma30": 1552,
+        "rsi": 47.4,
+        "bollinger": {
+          "upper": 1815,
+          "middle": 1568,
+          "lower": 1485
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 1548,
+          "high": 1627,
+          "low": 1530,
+          "close": 1580,
+          "volume": 178343
+        },
+        {
+          "time": "2025-06-02",
+          "open": 1580,
+          "high": 1605,
+          "low": 1578,
+          "close": 1590,
+          "volume": 282772
+        },
+        {
+          "time": "2025-06-03",
+          "open": 1590,
+          "high": 1642,
+          "low": 1563,
+          "close": 1600,
+          "volume": 170103
+        },
+        {
+          "time": "2025-06-04",
+          "open": 1600,
+          "high": 1655,
+          "low": 1571,
+          "close": 1620,
+          "volume": 126908
+        },
+        {
+          "time": "2025-06-05",
+          "open": 1620,
+          "high": 1670,
+          "low": 1596,
+          "close": 1630,
+          "volume": 280104
+        },
+        {
+          "time": "2025-06-06",
+          "open": 1630,
+          "high": 1666,
+          "low": 1627,
+          "close": 1640,
+          "volume": 220829
+        },
+        {
+          "time": "2025-06-07",
+          "open": 1640,
+          "high": 1669,
+          "low": 1610,
+          "close": 1650,
+          "volume": 237465
+        }
+      ]
+    },
+    {
+      "id": "kakao",
+      "name": "Biji Kakao Kering",
+      "unit": "kg",
+      "currentPrice": 28000,
+      "previousPrice": 27500,
+      "change": 1.82,
+      "category": "Perkebunan",
+      "description": "Biji kakao kering fermentasi",
+      "volume": 750000,
+      "marketCap": 21000000000,
+      "volatility": 11.3,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 27000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 27200
+        },
+        {
+          "date": "2025-06-03",
+          "price": 27500
+        },
+        {
+          "date": "2025-06-04",
+          "price": 27700
+        },
+        {
+          "date": "2025-06-05",
+          "price": 27800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 27900
+        },
+        {
+          "date": "2025-06-07",
+          "price": 28000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 27132,
+        "ma14": 26866,
+        "ma30": 26334,
+        "rsi": 52.6,
+        "bollinger": {
+          "upper": 30800,
+          "middle": 26600,
+          "lower": 25200
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 26460,
+          "high": 27153,
+          "low": 25937,
+          "close": 27000,
+          "volume": 128734
+        },
+        {
+          "time": "2025-06-02",
+          "open": 27000,
+          "high": 27595,
+          "low": 26418,
+          "close": 27200,
+          "volume": 270690
+        },
+        {
+          "time": "2025-06-03",
+          "open": 27200,
+          "high": 27821,
+          "low": 27083,
+          "close": 27500,
+          "volume": 215777
+        },
+        {
+          "time": "2025-06-04",
+          "open": 27500,
+          "high": 28130,
+          "low": 26795,
+          "close": 27700,
+          "volume": 297348
+        },
+        {
+          "time": "2025-06-05",
+          "open": 27700,
+          "high": 28017,
+          "low": 27312,
+          "close": 27800,
+          "volume": 106731
+        },
+        {
+          "time": "2025-06-06",
+          "open": 27800,
+          "high": 28016,
+          "low": 27680,
+          "close": 27900,
+          "volume": 292859
+        },
+        {
+          "time": "2025-06-07",
+          "open": 27900,
+          "high": 28637,
+          "low": 27461,
+          "close": 28000,
+          "volume": 142904
+        }
+      ]
+    },
+    {
+      "id": "kopi",
+      "name": "Biji Kopi Arabika",
+      "unit": "kg",
+      "currentPrice": 45000,
+      "previousPrice": 43000,
+      "change": 4.65,
+      "category": "Perkebunan",
+      "description": "Biji kopi arabika giling basah",
+      "volume": 400000,
+      "marketCap": 18000000000,
+      "volatility": 16.9,
+      "supplyStatus": "moderate",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 42000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 42500
+        },
+        {
+          "date": "2025-06-03",
+          "price": 43000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 43500
+        },
+        {
+          "date": "2025-06-05",
+          "price": 44000
+        },
+        {
+          "date": "2025-06-06",
+          "price": 44500
+        },
+        {
+          "date": "2025-06-07",
+          "price": 45000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 43605,
+        "ma14": 43178,
+        "ma30": 42323,
+        "rsi": 63.8,
+        "bollinger": {
+          "upper": 49500,
+          "middle": 42750,
+          "lower": 40500
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 41160,
+          "high": 42949,
+          "low": 40490,
+          "close": 42000,
+          "volume": 103894
+        },
+        {
+          "time": "2025-06-02",
+          "open": 42000,
+          "high": 43155,
+          "low": 41700,
+          "close": 42500,
+          "volume": 113145
+        },
+        {
+          "time": "2025-06-03",
+          "open": 42500,
+          "high": 44067,
+          "low": 41527,
+          "close": 43000,
+          "volume": 264062
+        },
+        {
+          "time": "2025-06-04",
+          "open": 43000,
+          "high": 44215,
+          "low": 42559,
+          "close": 43500,
+          "volume": 142430
+        },
+        {
+          "time": "2025-06-05",
+          "open": 43500,
+          "high": 44535,
+          "low": 42423,
+          "close": 44000,
+          "volume": 153122
+        },
+        {
+          "time": "2025-06-06",
+          "open": 44000,
+          "high": 44615,
+          "low": 43548,
+          "close": 44500,
+          "volume": 234790
+        },
+        {
+          "time": "2025-06-07",
+          "open": 44500,
+          "high": 45842,
+          "low": 43526,
+          "close": 45000,
+          "volume": 193129
+        }
+      ]
+    },
+    {
+      "id": "karet",
+      "name": "Getah Karet Kering",
+      "unit": "kg",
+      "currentPrice": 18500,
+      "previousPrice": 18000,
+      "change": 2.78,
+      "category": "Perkebunan",
+      "description": "Getah karet kering SIR 20",
+      "volume": 3200000,
+      "marketCap": 59200000000,
+      "volatility": 9.8,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 17800
+        },
+        {
+          "date": "2025-06-02",
+          "price": 17900
+        },
+        {
+          "date": "2025-06-03",
+          "price": 18000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 18200
+        },
+        {
+          "date": "2025-06-05",
+          "price": 18300
+        },
+        {
+          "date": "2025-06-06",
+          "price": 18400
+        },
+        {
+          "date": "2025-06-07",
+          "price": 18500
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 17927,
+        "ma14": 17751,
+        "ma30": 17399,
+        "rsi": 49.6,
+        "bollinger": {
+          "upper": 20350,
+          "middle": 17575,
+          "lower": 16650
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 17444,
+          "high": 18095,
+          "low": 17398,
+          "close": 17800,
+          "volume": 231000
+        },
+        {
+          "time": "2025-06-02",
+          "open": 17800,
+          "high": 18261,
+          "low": 17389,
+          "close": 17900,
+          "volume": 273653
+        },
+        {
+          "time": "2025-06-03",
+          "open": 17900,
+          "high": 18133,
+          "low": 17672,
+          "close": 18000,
+          "volume": 274337
+        },
+        {
+          "time": "2025-06-04",
+          "open": 18000,
+          "high": 18551,
+          "low": 17470,
+          "close": 18200,
+          "volume": 186701
+        },
+        {
+          "time": "2025-06-05",
+          "open": 18200,
+          "high": 18591,
+          "low": 17995,
+          "close": 18300,
+          "volume": 203868
+        },
+        {
+          "time": "2025-06-06",
+          "open": 18300,
+          "high": 18521,
+          "low": 18007,
+          "close": 18400,
+          "volume": 226190
+        },
+        {
+          "time": "2025-06-07",
+          "open": 18400,
+          "high": 18553,
+          "low": 18061,
+          "close": 18500,
+          "volume": 146124
+        }
+      ]
+    },
+    {
+      "id": "cengkeh",
+      "name": "Cengkeh Kering",
+      "unit": "kg",
+      "currentPrice": 85000,
+      "previousPrice": 82000,
+      "change": 3.66,
+      "category": "Perkebunan",
+      "description": "Cengkeh kering kualitas ekspor",
+      "volume": 120000,
+      "marketCap": 10200000000,
+      "volatility": 18.5,
+      "supplyStatus": "limited",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 80000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 81000
+        },
+        {
+          "date": "2025-06-03",
+          "price": 82000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 83000
+        },
+        {
+          "date": "2025-06-05",
+          "price": 84000
+        },
+        {
+          "date": "2025-06-06",
+          "price": 84500
+        },
+        {
+          "date": "2025-06-07",
+          "price": 85000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 82365,
+        "ma14": 81558,
+        "ma30": 79943,
+        "rsi": 67,
+        "bollinger": {
+          "upper": 93500,
+          "middle": 80750,
+          "lower": 76500
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 78400,
+          "high": 81515,
+          "low": 76675,
+          "close": 80000,
+          "volume": 288270
+        },
+        {
+          "time": "2025-06-02",
+          "open": 80000,
+          "high": 81217,
+          "low": 79379,
+          "close": 81000,
+          "volume": 278172
+        },
+        {
+          "time": "2025-06-03",
+          "open": 81000,
+          "high": 83573,
+          "low": 79505,
+          "close": 82000,
+          "volume": 104829
+        },
+        {
+          "time": "2025-06-04",
+          "open": 82000,
+          "high": 83527,
+          "low": 81582,
+          "close": 83000,
+          "volume": 225082
+        },
+        {
+          "time": "2025-06-05",
+          "open": 83000,
+          "high": 84432,
+          "low": 80588,
+          "close": 84000,
+          "volume": 119166
+        },
+        {
+          "time": "2025-06-06",
+          "open": 84000,
+          "high": 86811,
+          "low": 81900,
+          "close": 84500,
+          "volume": 165838
+        },
+        {
+          "time": "2025-06-07",
+          "open": 84500,
+          "high": 86354,
+          "low": 83798,
+          "close": 85000,
+          "volume": 197796
+        }
+      ]
+    },
+    {
+      "id": "teh",
+      "name": "Daun Teh Kering",
+      "unit": "kg",
+      "currentPrice": 35000,
+      "previousPrice": 34000,
+      "change": 2.94,
+      "category": "Perkebunan",
+      "description": "Daun teh hitam kering",
+      "volume": 150000,
+      "marketCap": 5250000000,
+      "volatility": 13.2,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 33500
+        },
+        {
+          "date": "2025-06-02",
+          "price": 33700
+        },
+        {
+          "date": "2025-06-03",
+          "price": 34000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 34300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 34600
+        },
+        {
+          "date": "2025-06-06",
+          "price": 34800
+        },
+        {
+          "date": "2025-06-07",
+          "price": 35000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 33915,
+        "ma14": 33583,
+        "ma30": 32918,
+        "rsi": 56.4,
+        "bollinger": {
+          "upper": 38500,
+          "middle": 33250,
+          "lower": 31500
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 32830,
+          "high": 33648,
+          "low": 32578,
+          "close": 33500,
+          "volume": 130294
+        },
+        {
+          "time": "2025-06-02",
+          "open": 33500,
+          "high": 34089,
+          "low": 33404,
+          "close": 33700,
+          "volume": 185162
+        },
+        {
+          "time": "2025-06-03",
+          "open": 33700,
+          "high": 34555,
+          "low": 33171,
+          "close": 34000,
+          "volume": 239120
+        },
+        {
+          "time": "2025-06-04",
+          "open": 34000,
+          "high": 35288,
+          "low": 33637,
+          "close": 34300,
+          "volume": 126878
+        },
+        {
+          "time": "2025-06-05",
+          "open": 34300,
+          "high": 35619,
+          "low": 34083,
+          "close": 34600,
+          "volume": 145850
+        },
+        {
+          "time": "2025-06-06",
+          "open": 34600,
+          "high": 34877,
+          "low": 33601,
+          "close": 34800,
+          "volume": 150555
+        },
+        {
+          "time": "2025-06-07",
+          "open": 34800,
+          "high": 35811,
+          "low": 34118,
+          "close": 35000,
+          "volume": 264881
+        }
+      ]
+    },
+    {
+      "id": "ikan-nila",
+      "name": "Ikan Nila Segar",
+      "unit": "kg",
+      "currentPrice": 28000,
+      "previousPrice": 27000,
+      "change": 3.7,
+      "category": "Perikanan",
+      "description": "Ikan nila segar ukuran konsumsi",
+      "volume": 800000,
+      "marketCap": 22400000000,
+      "volatility": 12.6,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 26500
+        },
+        {
+          "date": "2025-06-02",
+          "price": 26700
+        },
+        {
+          "date": "2025-06-03",
+          "price": 27000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 27300
+        },
+        {
+          "date": "2025-06-05",
+          "price": 27600
+        },
+        {
+          "date": "2025-06-06",
+          "price": 27800
+        },
+        {
+          "date": "2025-06-07",
+          "price": 28000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 27132,
+        "ma14": 26866,
+        "ma30": 26334,
+        "rsi": 55.2,
+        "bollinger": {
+          "upper": 30800,
+          "middle": 26600,
+          "lower": 25200
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 25970,
+          "high": 26637,
+          "low": 25948,
+          "close": 26500,
+          "volume": 279797
+        },
+        {
+          "time": "2025-06-02",
+          "open": 26500,
+          "high": 26869,
+          "low": 25989,
+          "close": 26700,
+          "volume": 195796
+        },
+        {
+          "time": "2025-06-03",
+          "open": 26700,
+          "high": 27758,
+          "low": 26651,
+          "close": 27000,
+          "volume": 119999
+        },
+        {
+          "time": "2025-06-04",
+          "open": 27000,
+          "high": 27965,
+          "low": 26931,
+          "close": 27300,
+          "volume": 277044
+        },
+        {
+          "time": "2025-06-05",
+          "open": 27300,
+          "high": 28398,
+          "low": 27230,
+          "close": 27600,
+          "volume": 235146
+        },
+        {
+          "time": "2025-06-06",
+          "open": 27600,
+          "high": 28033,
+          "low": 26923,
+          "close": 27800,
+          "volume": 176871
+        },
+        {
+          "time": "2025-06-07",
+          "open": 27800,
+          "high": 28587,
+          "low": 27028,
+          "close": 28000,
+          "volume": 219272
+        }
+      ]
+    },
+    {
+      "id": "lele",
+      "name": "Ikan Lele Segar",
+      "unit": "kg",
+      "currentPrice": 18000,
+      "previousPrice": 17500,
+      "change": 2.86,
+      "category": "Perikanan",
+      "description": "Ikan lele segar ukuran konsumsi",
+      "volume": 1200000,
+      "marketCap": 21600000000,
+      "volatility": 10.8,
+      "supplyStatus": "abundant",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 17000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 17200
+        },
+        {
+          "date": "2025-06-03",
+          "price": 17500
+        },
+        {
+          "date": "2025-06-04",
+          "price": 17700
+        },
+        {
+          "date": "2025-06-05",
+          "price": 17800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 17900
+        },
+        {
+          "date": "2025-06-07",
+          "price": 18000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 17442,
+        "ma14": 17271,
+        "ma30": 16929,
+        "rsi": 51.6,
+        "bollinger": {
+          "upper": 19800,
+          "middle": 17100,
+          "lower": 16200
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 16660,
+          "high": 17041,
+          "low": 16273,
+          "close": 17000,
+          "volume": 110985
+        },
+        {
+          "time": "2025-06-02",
+          "open": 17000,
+          "high": 17260,
+          "low": 16503,
+          "close": 17200,
+          "volume": 144296
+        },
+        {
+          "time": "2025-06-03",
+          "open": 17200,
+          "high": 17719,
+          "low": 17042,
+          "close": 17500,
+          "volume": 218584
+        },
+        {
+          "time": "2025-06-04",
+          "open": 17500,
+          "high": 18082,
+          "low": 17139,
+          "close": 17700,
+          "volume": 273933
+        },
+        {
+          "time": "2025-06-05",
+          "open": 17700,
+          "high": 18120,
+          "low": 17535,
+          "close": 17800,
+          "volume": 251482
+        },
+        {
+          "time": "2025-06-06",
+          "open": 17800,
+          "high": 18415,
+          "low": 17490,
+          "close": 17900,
+          "volume": 202578
+        },
+        {
+          "time": "2025-06-07",
+          "open": 17900,
+          "high": 18322,
+          "low": 17711,
+          "close": 18000,
+          "volume": 158971
+        }
+      ]
+    },
+    {
+      "id": "patin",
+      "name": "Ikan Patin Segar",
+      "unit": "kg",
+      "currentPrice": 22000,
+      "previousPrice": 21500,
+      "change": 2.33,
+      "category": "Perikanan",
+      "description": "Ikan patin segar ukuran konsumsi",
+      "volume": 500000,
+      "marketCap": 11000000000,
+      "volatility": 11.4,
+      "supplyStatus": "sufficient",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 21000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 21200
+        },
+        {
+          "date": "2025-06-03",
+          "price": 21500
+        },
+        {
+          "date": "2025-06-04",
+          "price": 21700
+        },
+        {
+          "date": "2025-06-05",
+          "price": 21800
+        },
+        {
+          "date": "2025-06-06",
+          "price": 21900
+        },
+        {
+          "date": "2025-06-07",
+          "price": 22000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 21318,
+        "ma14": 21109,
+        "ma30": 20691,
+        "rsi": 52.8,
+        "bollinger": {
+          "upper": 24200,
+          "middle": 20900,
+          "lower": 19800
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 20580,
+          "high": 21194,
+          "low": 20507,
+          "close": 21000,
+          "volume": 227624
+        },
+        {
+          "time": "2025-06-02",
+          "open": 21000,
+          "high": 21587,
+          "low": 20439,
+          "close": 21200,
+          "volume": 247309
+        },
+        {
+          "time": "2025-06-03",
+          "open": 21200,
+          "high": 22044,
+          "low": 20774,
+          "close": 21500,
+          "volume": 177027
+        },
+        {
+          "time": "2025-06-04",
+          "open": 21500,
+          "high": 22063,
+          "low": 21170,
+          "close": 21700,
+          "volume": 203077
+        },
+        {
+          "time": "2025-06-05",
+          "open": 21700,
+          "high": 21969,
+          "low": 21273,
+          "close": 21800,
+          "volume": 167421
+        },
+        {
+          "time": "2025-06-06",
+          "open": 21800,
+          "high": 22062,
+          "low": 21480,
+          "close": 21900,
+          "volume": 294724
+        },
+        {
+          "time": "2025-06-07",
+          "open": 21900,
+          "high": 22074,
+          "low": 21313,
+          "close": 22000,
+          "volume": 109907
+        }
+      ]
+    },
+    {
+      "id": "tuna",
+      "name": "Ikan Tuna Segar",
+      "unit": "kg",
+      "currentPrice": 85000,
+      "previousPrice": 82000,
+      "change": 3.66,
+      "category": "Perikanan",
+      "description": "Ikan tuna segar kualitas ekspor",
+      "volume": 200000,
+      "marketCap": 17000000000,
+      "volatility": 15.7,
+      "supplyStatus": "limited",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 80000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 81000
+        },
+        {
+          "date": "2025-06-03",
+          "price": 82000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 83000
+        },
+        {
+          "date": "2025-06-05",
+          "price": 84000
+        },
+        {
+          "date": "2025-06-06",
+          "price": 84500
+        },
+        {
+          "date": "2025-06-07",
+          "price": 85000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 82365,
+        "ma14": 81558,
+        "ma30": 79943,
+        "rsi": 61.4,
+        "bollinger": {
+          "upper": 93500,
+          "middle": 80750,
+          "lower": 76500
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 78400,
+          "high": 81722,
+          "low": 77511,
+          "close": 80000,
+          "volume": 169747
+        },
+        {
+          "time": "2025-06-02",
+          "open": 80000,
+          "high": 83078,
+          "low": 78095,
+          "close": 81000,
+          "volume": 130831
+        },
+        {
+          "time": "2025-06-03",
+          "open": 81000,
+          "high": 83089,
+          "low": 80850,
+          "close": 82000,
+          "volume": 276255
+        },
+        {
+          "time": "2025-06-04",
+          "open": 82000,
+          "high": 83580,
+          "low": 81743,
+          "close": 83000,
+          "volume": 124947
+        },
+        {
+          "time": "2025-06-05",
+          "open": 83000,
+          "high": 84003,
+          "low": 81935,
+          "close": 84000,
+          "volume": 260943
+        },
+        {
+          "time": "2025-06-06",
+          "open": 84000,
+          "high": 84690,
+          "low": 82886,
+          "close": 84500,
+          "volume": 198204
+        },
+        {
+          "time": "2025-06-07",
+          "open": 84500,
+          "high": 87287,
+          "low": 82852,
+          "close": 85000,
+          "volume": 148598
+        }
+      ]
+    },
+    {
+      "id": "udang",
+      "name": "Udang Vaname",
+      "unit": "kg",
+      "currentPrice": 65000,
+      "previousPrice": 62000,
+      "change": 4.84,
+      "category": "Perikanan",
+      "description": "Udang vaname segar ukuran 30-40",
+      "volume": 350000,
+      "marketCap": 22750000000,
+      "volatility": 17.3,
+      "supplyStatus": "moderate",
+      "priceHistory": [
+        {
+          "date": "2025-06-01",
+          "price": 60000
+        },
+        {
+          "date": "2025-06-02",
+          "price": 61000
+        },
+        {
+          "date": "2025-06-03",
+          "price": 62000
+        },
+        {
+          "date": "2025-06-04",
+          "price": 63000
+        },
+        {
+          "date": "2025-06-05",
+          "price": 64000
+        },
+        {
+          "date": "2025-06-06",
+          "price": 64500
+        },
+        {
+          "date": "2025-06-07",
+          "price": 65000
+        }
+      ],
+      "technicalIndicators": {
+        "ma7": 62985,
+        "ma14": 62368,
+        "ma30": 61133,
+        "rsi": 64.6,
+        "bollinger": {
+          "upper": 71500,
+          "middle": 61750,
+          "lower": 58500
+        }
+      },
+      "ohlcData": [
+        {
+          "time": "2025-06-01",
+          "open": 58800,
+          "high": 61513,
+          "low": 57325,
+          "close": 60000,
+          "volume": 143703
+        },
+        {
+          "time": "2025-06-02",
+          "open": 60000,
+          "high": 62634,
+          "low": 59976,
+          "close": 61000,
+          "volume": 202207
+        },
+        {
+          "time": "2025-06-03",
+          "open": 61000,
+          "high": 62517,
+          "low": 60674,
+          "close": 62000,
+          "volume": 203732
+        },
+        {
+          "time": "2025-06-04",
+          "open": 62000,
+          "high": 63163,
+          "low": 61390,
+          "close": 63000,
+          "volume": 273736
+        },
+        {
+          "time": "2025-06-05",
+          "open": 63000,
+          "high": 64015,
+          "low": 62147,
+          "close": 64000,
+          "volume": 113528
+        },
+        {
+          "time": "2025-06-06",
+          "open": 64000,
+          "high": 65221,
+          "low": 63305,
+          "close": 64500,
+          "volume": 273783
+        },
+        {
+          "time": "2025-06-07",
+          "open": 64500,
+          "high": 66044,
+          "low": 63493,
+          "close": 65000,
+          "volume": 247159
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "updated": "2025-06-07T07:46:58.000Z",
+  "modelInfo": {
+    "version": "v2.1.0",
+    "lastTrained": "2025-06-01T00:00:00.000Z",
+    "accuracy": 87.5,
+    "confidenceInterval": 95
+  },
+  "predictions": {
+    "cabai": {
+      "currentPrice": 42500,
+      "shortTerm": {
+        "days": 7,
+        "predictedPrice": 44200,
+        "confidence": 89,
+        "trend": "increasing",
+        "factors": ["Seasonal demand", "Weather conditions", "Supply constraints"],
+        "dailyForecast": [
+          { "date": "2025-06-08", "price": 42800, "confidence": 92 },
+          { "date": "2025-06-09", "price": 43100, "confidence": 90 },
+          { "date": "2025-06-10", "price": 43400, "confidence": 89 },
+          { "date": "2025-06-11", "price": 43700, "confidence": 88 },
+          { "date": "2025-06-12", "price": 44000, "confidence": 87 },
+          { "date": "2025-06-13", "price": 44100, "confidence": 86 },
+          { "date": "2025-06-14", "price": 44200, "confidence": 89 }
+        ]
+      },
+      "mediumTerm": {
+        "days": 14,
+        "predictedPrice": 45800,
+        "confidence": 82,
+        "trend": "increasing",
+        "factors": ["Peak demand season", "Limited imports", "Regional supply issues"]
+      },
+      "longTerm": {
+        "days": 30,
+        "predictedPrice": 47500,
+        "confidence": 76,
+        "trend": "increasing",
+        "factors": ["El Niño impact", "Increased export demand", "Production constraints"]
+      }
+    },
+    "tomat": {
+      "currentPrice": 8500,
+      "shortTerm": {
+        "days": 7,
+        "predictedPrice": 8200,
+        "confidence": 91,
+        "trend": "decreasing",
+        "factors": ["Harvest season", "Improved weather", "Stable supply"],
+        "dailyForecast": [
+          { "date": "2025-06-08", "price": 8450, "confidence": 93 },
+          { "date": "2025-06-09", "price": 8400, "confidence": 92 },
+          { "date": "2025-06-10", "price": 8350, "confidence": 91 },
+          { "date": "2025-06-11", "price": 8300, "confidence": 90 },
+          { "date": "2025-06-12", "price": 8250, "confidence": 91 },
+          { "date": "2025-06-13", "price": 8220, "confidence": 90 },
+          { "date": "2025-06-14", "price": 8200, "confidence": 91 }
+        ]
+      },
+      "mediumTerm": {
+        "days": 14,
+        "predictedPrice": 7900,
+        "confidence": 84,
+        "trend": "decreasing",
+        "factors": ["Peak harvest", "Increased yields", "Market saturation"]
+      },
+      "longTerm": {
+        "days": 30,
+        "predictedPrice": 7600,
+        "confidence": 77,
+        "trend": "stable",
+        "factors": ["Normal seasonal pattern", "Stable demand", "Regular supply cycle"]
+      }
+    },
+    "beras": {
+      "currentPrice": 14500,
+      "shortTerm": {
+        "days": 7,
+        "predictedPrice": 14650,
+        "confidence": 94,
+        "trend": "stable",
+        "factors": ["Stable demand", "Government buffer stock", "Normal supply"],
+        "dailyForecast": [
+          { "date": "2025-06-08", "price": 14520, "confidence": 95 },
+          { "date": "2025-06-09", "price": 14540, "confidence": 94 },
+          { "date": "2025-06-10", "price": 14560, "confidence": 94 },
+          { "date": "2025-06-11", "price": 14580, "confidence": 93 },
+          { "date": "2025-06-12", "price": 14600, "confidence": 94 },
+          { "date": "2025-06-13", "price": 14620, "confidence": 94 },
+          { "date": "2025-06-14", "price": 14650, "confidence": 94 }
+        ]
+      },
+      "mediumTerm": {
+        "days": 14,
+        "predictedPrice": 14800,
+        "confidence": 88,
+        "trend": "slightly_increasing",
+        "factors": ["Gradual inflation", "Fuel cost increase", "Processing costs"]
+      },
+      "longTerm": {
+        "days": 30,
+        "predictedPrice": 15100,
+        "confidence": 81,
+        "trend": "increasing",
+        "factors": ["Inflation adjustment", "Global rice prices", "Currency fluctuation"]
+      }
+    },
+    "bawang": {
+      "currentPrice": 28000,
+      "shortTerm": {
+        "days": 7,
+        "predictedPrice": 29200,
+        "confidence": 86,
+        "trend": "increasing",
+        "factors": ["Off-season", "Import dependency", "Storage costs"],
+        "dailyForecast": [
+          { "date": "2025-06-08", "price": 28200, "confidence": 88 },
+          { "date": "2025-06-09", "price": 28400, "confidence": 87 },
+          { "date": "2025-06-10", "price": 28600, "confidence": 86 },
+          { "date": "2025-06-11", "price": 28800, "confidence": 85 },
+          { "date": "2025-06-12", "price": 29000, "confidence": 86 },
+          { "date": "2025-06-13", "price": 29100, "confidence": 86 },
+          { "date": "2025-06-14", "price": 29200, "confidence": 86 }
+        ]
+      },
+      "mediumTerm": {
+        "days": 14,
+        "predictedPrice": 30500,
+        "confidence": 78,
+        "trend": "increasing",
+        "factors": ["Peak off-season", "Limited local production", "Import costs"]
+      },
+      "longTerm": {
+        "days": 30,
+        "predictedPrice": 26500,
+        "confidence": 72,
+        "trend": "decreasing",
+        "factors": ["New harvest season", "Increased local supply", "Reduced imports"]
+      }
+    },
+    "jagung": {
+      "currentPrice": 5800,
+      "shortTerm": {
+        "days": 7,
+        "predictedPrice": 5850,
+        "confidence": 92,
+        "trend": "stable",
+        "factors": ["Stable feed demand", "Normal supply", "Consistent exports"],
+        "dailyForecast": [
+          { "date": "2025-06-08", "price": 5810, "confidence": 93 },
+          { "date": "2025-06-09", "price": 5820, "confidence": 92 },
+          { "date": "2025-06-10", "price": 5830, "confidence": 92 },
+          { "date": "2025-06-11", "price": 5835, "confidence": 92 },
+          { "date": "2025-06-12", "price": 5840, "confidence": 92 },
+          { "date": "2025-06-13", "price": 5845, "confidence": 92 },
+          { "date": "2025-06-14", "price": 5850, "confidence": 92 }
+        ]
+      },
+      "mediumTerm": {
+        "days": 14,
+        "predictedPrice": 5950,
+        "confidence": 85,
+        "trend": "slightly_increasing",
+        "factors": ["Feed industry growth", "Export opportunities", "Processing demand"]
+      },
+      "longTerm": {
+        "days": 30,
+        "predictedPrice": 6100,
+        "confidence": 79,
+        "trend": "increasing",
+        "factors": ["Global demand increase", "Biofuel industry", "Population growth"]
+      }
+    },
+    "kedelai": {
+      "currentPrice": 12500,
+      "shortTerm": {
+        "days": 7,
+        "predictedPrice": 12350,
+        "confidence": 88,
+        "trend": "decreasing",
+        "factors": ["Import arrivals", "Harvest season", "Processing capacity"],
+        "dailyForecast": [
+          { "date": "2025-06-08", "price": 12480, "confidence": 89 },
+          { "date": "2025-06-09", "price": 12460, "confidence": 88 },
+          { "date": "2025-06-10", "price": 12440, "confidence": 88 },
+          { "date": "2025-06-11", "price": 12420, "confidence": 87 },
+          { "date": "2025-06-12", "price": 12400, "confidence": 88 },
+          { "date": "2025-06-13", "price": 12375, "confidence": 88 },
+          { "date": "2025-06-14", "price": 12350, "confidence": 88 }
+        ]
+      },
+      "mediumTerm": {
+        "days": 14,
+        "predictedPrice": 12200,
+        "confidence": 82,
+        "trend": "decreasing",
+        "factors": ["Increased imports", "Good harvest", "Market equilibrium"]
+      },
+      "longTerm": {
+        "days": 30,
+        "predictedPrice": 12800,
+        "confidence": 75,
+        "trend": "increasing",
+        "factors": ["Global supply tightening", "Processing demand", "Export restrictions"]
+      }
+    },
+    "gula": {
+      "currentPrice": 17500,
+      "shortTerm": {
+        "days": 7,
+        "predictedPrice": 17650,
+        "confidence": 90,
+        "trend": "stable",
+        "factors": ["Regulated pricing", "Stable supply", "Normal demand"],
+        "dailyForecast": [
+          { "date": "2025-06-08", "price": 17520, "confidence": 91 },
+          { "date": "2025-06-09", "price": 17540, "confidence": 90 },
+          { "date": "2025-06-10", "price": 17560, "confidence": 90 },
+          { "date": "2025-06-11", "price": 17580, "confidence": 90 },
+          { "date": "2025-06-12", "price": 17600, "confidence": 90 },
+          { "date": "2025-06-13", "price": 17620, "confidence": 90 },
+          { "date": "2025-06-14", "price": 17650, "confidence": 90 }
+        ]
+      },
+      "mediumTerm": {
+        "days": 14,
+        "predictedPrice": 17800,
+        "confidence": 84,
+        "trend": "slightly_increasing",
+        "factors": ["Seasonal adjustment", "Production costs", "Distribution costs"]
+      },
+      "longTerm": {
+        "days": 30,
+        "predictedPrice": 18200,
+        "confidence": 78,
+        "trend": "increasing",
+        "factors": ["Global sugar prices", "Currency impact", "Energy costs"]
+      }
+    },
+    "kopi": {
+      "currentPrice": 85000,
+      "shortTerm": {
+        "days": 7,
+        "predictedPrice": 86500,
+        "confidence": 85,
+        "trend": "increasing",
+        "factors": ["Export demand", "Premium quality", "Limited supply"],
+        "dailyForecast": [
+          { "date": "2025-06-08", "price": 85200, "confidence": 86 },
+          { "date": "2025-06-09", "price": 85400, "confidence": 85 },
+          { "date": "2025-06-10", "price": 85700, "confidence": 85 },
+          { "date": "2025-06-11", "price": 86000, "confidence": 84 },
+          { "date": "2025-06-12", "price": 86200, "confidence": 85 },
+          { "date": "2025-06-13", "price": 86300, "confidence": 85 },
+          { "date": "2025-06-14", "price": 86500, "confidence": 85 }
+        ]
+      },
+      "mediumTerm": {
+        "days": 14,
+        "predictedPrice": 88500,
+        "confidence": 79,
+        "trend": "increasing",
+        "factors": ["International prices", "Specialty market", "Climate impact"]
+      },
+      "longTerm": {
+        "days": 30,
+        "predictedPrice": 91000,
+        "confidence": 73,
+        "trend": "increasing",
+        "factors": ["Global coffee shortage", "Climate change", "Premium positioning"]
+      }
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "updated": "2025-06-07T07:46:58.000Z",
+  "commodities": [
+    {
+      "id": "cabai",
+      "name": "Cabai Merah",
+      "unit": "kg",
+      "currentPrice": 42500,
+      "previousPrice": 38000,
+      "change": 11.84,
+      "category": "Sayuran",
+      "description": "Cabai merah segar kualitas premium",
+      "historicalData": [
+        { "date": "2025-01-01", "price": 35000 },
+        { "date": "2025-01-15", "price": 37500 },
+        { "date": "2025-02-01", "price": 39000 },
+        { "date": "2025-02-15", "price": 36500 },
+        { "date": "2025-03-01", "price": 38000 },
+        { "date": "2025-03-15", "price": 40000 },
+        { "date": "2025-04-01", "price": 41000 },
+        { "date": "2025-04-15", "price": 39500 },
+        { "date": "2025-05-01", "price": 38000 },
+        { "date": "2025-05-15", "price": 40500 },
+        { "date": "2025-06-01", "price": 42500 }
+      ]
+    },
+    {
+      "id": "tomat",
+      "name": "Tomat",
+      "unit": "kg",
+      "currentPrice": 8500,
+      "previousPrice": 9200,
+      "change": -7.61,
+      "category": "Sayuran",
+      "description": "Tomat segar kualitas ekspor",
+      "historicalData": [
+        { "date": "2025-01-01", "price": 7500 },
+        { "date": "2025-01-15", "price": 8000 },
+        { "date": "2025-02-01", "price": 8500 },
+        { "date": "2025-02-15", "price": 8200 },
+        { "date": "2025-03-01", "price": 9000 },
+        { "date": "2025-03-15", "price": 9500 },
+        { "date": "2025-04-01", "price": 9200 },
+        { "date": "2025-04-15", "price": 8800 },
+        { "date": "2025-05-01", "price": 9200 },
+        { "date": "2025-05-15", "price": 8900 },
+        { "date": "2025-06-01", "price": 8500 }
+      ]
+    },
+    {
+      "id": "beras",
+      "name": "Beras Premium",
+      "unit": "kg",
+      "currentPrice": 14500,
+      "previousPrice": 14200,
+      "change": 2.11,
+      "category": "Biji-bijian",
+      "description": "Beras premium kualitas terbaik",
+      "historicalData": [
+        { "date": "2025-01-01", "price": 13500 },
+        { "date": "2025-01-15", "price": 13800 },
+        { "date": "2025-02-01", "price": 14000 },
+        { "date": "2025-02-15", "price": 14100 },
+        { "date": "2025-03-01", "price": 14000 },
+        { "date": "2025-03-15", "price": 14200 },
+        { "date": "2025-04-01", "price": 14300 },
+        { "date": "2025-04-15", "price": 14200 },
+        { "date": "2025-05-01", "price": 14200 },
+        { "date": "2025-05-15", "price": 14400 },
+        { "date": "2025-06-01", "price": 14500 }
+      ]
+    },
+    {
+      "id": "bawang",
+      "name": "Bawang Merah",
+      "unit": "kg",
+      "currentPrice": 28000,
+      "previousPrice": 25500,
+      "change": 9.80,
+      "category": "Sayuran",
+      "description": "Bawang merah lokal kualitas unggul",
+      "historicalData": [
+        { "date": "2025-01-01", "price": 22000 },
+        { "date": "2025-01-15", "price": 23500 },
+        { "date": "2025-02-01", "price": 24000 },
+        { "date": "2025-02-15", "price": 23000 },
+        { "date": "2025-03-01", "price": 24500 },
+        { "date": "2025-03-15", "price": 26000 },
+        { "date": "2025-04-01", "price": 25000 },
+        { "date": "2025-04-15", "price": 24500 },
+        { "date": "2025-05-01", "price": 25500 },
+        { "date": "2025-05-15", "price": 27000 },
+        { "date": "2025-06-01", "price": 28000 }
+      ]
+    },
+    {
+      "id": "jagung",
+      "name": "Jagung Pipilan",
+      "unit": "kg",
+      "currentPrice": 5800,
+      "previousPrice": 5650,
+      "change": 2.65,
+      "category": "Biji-bijian",
+      "description": "Jagung pipilan kering siap konsumsi",
+      "historicalData": [
+        { "date": "2025-01-01", "price": 5200 },
+        { "date": "2025-01-15", "price": 5300 },
+        { "date": "2025-02-01", "price": 5400 },
+        { "date": "2025-02-15", "price": 5500 },
+        { "date": "2025-03-01", "price": 5450 },
+        { "date": "2025-03-15", "price": 5600 },
+        { "date": "2025-04-01", "price": 5700 },
+        { "date": "2025-04-15", "price": 5650 },
+        { "date": "2025-05-01", "price": 5650 },
+        { "date": "2025-05-15", "price": 5750 },
+        { "date": "2025-06-01", "price": 5800 }
+      ]
+    },
+    {
+      "id": "kedelai",
+      "name": "Kedelai Lokal",
+      "unit": "kg",
+      "currentPrice": 12500,
+      "previousPrice": 12800,
+      "change": -2.34,
+      "category": "Biji-bijian",
+      "description": "Kedelai lokal berkualitas tinggi",
+      "historicalData": [
+        { "date": "2025-01-01", "price": 11500 },
+        { "date": "2025-01-15", "price": 11800 },
+        { "date": "2025-02-01", "price": 12000 },
+        { "date": "2025-02-15", "price": 12200 },
+        { "date": "2025-03-01", "price": 12100 },
+        { "date": "2025-03-15", "price": 12400 },
+        { "date": "2025-04-01", "price": 12600 },
+        { "date": "2025-04-15", "price": 12500 },
+        { "date": "2025-05-01", "price": 12800 },
+        { "date": "2025-05-15", "price": 12600 },
+        { "date": "2025-06-01", "price": 12500 }
+      ]
+    },
+    {
+      "id": "gula",
+      "name": "Gula Pasir",
+      "unit": "kg",
+      "currentPrice": 17500,
+      "previousPrice": 17200,
+      "change": 1.74,
+      "category": "Kebutuhan Pokok",
+      "description": "Gula pasir berkualitas premium",
+      "historicalData": [
+        { "date": "2025-01-01", "price": 16500 },
+        { "date": "2025-01-15", "price": 16800 },
+        { "date": "2025-02-01", "price": 17000 },
+        { "date": "2025-02-15", "price": 16900 },
+        { "date": "2025-03-01", "price": 17100 },
+        { "date": "2025-03-15", "price": 17200 },
+        { "date": "2025-04-01", "price": 17300 },
+        { "date": "2025-04-15", "price": 17200 },
+        { "date": "2025-05-01", "price": 17200 },
+        { "date": "2025-05-15", "price": 17400 },
+        { "date": "2025-06-01", "price": 17500 }
+      ]
+    },
+    {
+      "id": "kopi",
+      "name": "Kopi Biji",
+      "unit": "kg",
+      "currentPrice": 85000,
+      "previousPrice": 82000,
+      "change": 3.66,
+      "category": "Perkebunan",
+      "description": "Kopi arabika premium grade A",
+      "historicalData": [
+        { "date": "2025-01-01", "price": 75000 },
+        { "date": "2025-01-15", "price": 77000 },
+        { "date": "2025-02-01", "price": 78000 },
+        { "date": "2025-02-15", "price": 79000 },
+        { "date": "2025-03-01", "price": 80000 },
+        { "date": "2025-03-15", "price": 81000 },
+        { "date": "2025-04-01", "price": 82500 },
+        { "date": "2025-04-15", "price": 81500 },
+        { "date": "2025-05-01", "price": 82000 },
+        { "date": "2025-05-15", "price": 84000 },
+        { "date": "2025-06-01", "price": 85000 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Dependensi Node.js
+node_modules/
+# File build/output
+dist/
+build/
+# File lingkungan
+.env
+# File lock (dikelola secara lokal)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+# File log
+*.log
+# Direktori spesifik per bagian
+komoditas-watch-backend/dist/
+komoditas-watch-backend/node_modules/
+komoditas-watch-dashboard/dist/
+komoditas-watch-dashboard/node_modules/
+komoditas-mi-service/dist/
+komoditas-mi-service/node_modules/
+# File sementara atau cache
+*.tmp
+*.cache
+# File IDE/editor
+.vscode/
+.idea/
+# Docker
+Dockerfile.*
+docker-compose.override.yml
+# File konfigurasi lokal
+*.local

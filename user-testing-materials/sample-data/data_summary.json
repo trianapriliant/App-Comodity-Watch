@@ -1,0 +1,23 @@
+{
+  "generation_date": "2025-06-07 09:21:02",
+  "data_period": {
+    "start_date": "2024-12-09",
+    "end_date": "2025-07-07",
+    "historical_days": 180,
+    "prediction_days": 30
+  },
+  "coverage": {
+    "commodities": 5,
+    "regions": 10,
+    "total_price_records": 10500,
+    "weather_records": 1890,
+    "anomaly_examples": 3,
+    "prediction_examples": 15
+  },
+  "data_quality": {
+    "completeness": "100%",
+    "accuracy": "synthetic_realistic",
+    "consistency": "validated",
+    "timeliness": "current"
+  }
+}

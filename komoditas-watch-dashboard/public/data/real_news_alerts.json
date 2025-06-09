@@ -1,0 +1,140 @@
+{
+  "updated": "2025-06-07T12:02:52.000Z",
+  "news": [
+    {
+      "id": "news-001",
+      "title": "Harga Cabai Merah Naik 11.84% dalam 24 Jam",
+      "source": "Panel Harga Pangan Nasional",
+      "timestamp": "2025-06-07T11:30:00.000Z",
+      "category": "PRICE_ALERT",
+      "severity": "HIGH",
+      "content": "Harga cabai merah mengalami kenaikan signifikan dari Rp 38.000 menjadi Rp 42.500 per kg. Kenaikan dipicu cuaca buruk di sentra produksi Jawa Barat dan Jawa Tengah.",
+      "impact": "Berpotensi mempengaruhi inflasi makanan, disarankan monitoring ketat supply chain.",
+      "relatedCommodities": ["cabai"]
+    },
+    {
+      "id": "news-002", 
+      "title": "Panen Raya Tomat Turunkan Harga 7.61%",
+      "source": "Dinas Pertanian Jawa Timur",
+      "timestamp": "2025-06-07T10:45:00.000Z",
+      "category": "SUPPLY",
+      "severity": "MEDIUM",
+      "content": "Panen raya tomat di Jawa Timur menyebabkan oversupply dan penurunan harga dari Rp 9.200 menjadi Rp 8.500 per kg.",
+      "impact": "Positif untuk konsumen, petani perlu diversifikasi pemasaran dan pengolahan.",
+      "relatedCommodities": ["tomat"]
+    },
+    {
+      "id": "news-003",
+      "title": "Ekspor Kopi Arabika Meningkat, Harga Lokal Naik 4.65%",
+      "source": "Asosiasi Eksportir Kopi Indonesia",
+      "timestamp": "2025-06-07T09:15:00.000Z", 
+      "category": "POLICY",
+      "severity": "MEDIUM",
+      "content": "Peningkatan permintaan ekspor kopi arabika mendorong kenaikan harga domestik menjadi Rp 45.000 per kg.",
+      "impact": "Menguntungkan petani kopi, namun perlu perhatian terhadap ketersediaan pasar domestik.",
+      "relatedCommodities": ["kopi"]
+    },
+    {
+      "id": "news-004",
+      "title": "Cuaca El Niño Berpotensi Pengaruhi Produksi Padi",
+      "source": "BMKG",
+      "timestamp": "2025-06-07T08:00:00.000Z",
+      "category": "WEATHER",
+      "severity": "HIGH",
+      "content": "BMKG memperkirakan fenomena El Niño akan berlanjut hingga Agustus, berpotensi mengurangi produksi padi di beberapa daerah.",
+      "impact": "Disarankan petani mempersiapkan strategi adaptasi dan pemerintah menyiapkan cadangan beras.",
+      "relatedCommodities": ["beras"]
+    },
+    {
+      "id": "news-005",
+      "title": "Harga Udang Vaname Naik Akibat Permintaan Ekspor",
+      "source": "Kementerian Kelautan dan Perikanan",
+      "timestamp": "2025-06-07T07:30:00.000Z",
+      "category": "PRICE_ALERT",
+      "severity": "MEDIUM", 
+      "content": "Peningkatan permintaan ekspor udang vaname ke Jepang dan Korea mendorong harga naik 4.84% menjadi Rp 65.000 per kg.",
+      "impact": "Menguntungkan pembudidaya, namun perlu menjaga stabilitas pasokan domestik.",
+      "relatedCommodities": ["udang"]
+    },
+    {
+      "id": "news-006",
+      "title": "Program Bantuan Benih Kedelai Lokal Dimulai",
+      "source": "Kementerian Pertanian", 
+      "timestamp": "2025-06-07T06:45:00.000Z",
+      "category": "POLICY",
+      "severity": "LOW",
+      "content": "Kementan meluncurkan program bantuan benih kedelai lokal untuk 50.000 petani guna meningkatkan produksi dalam negeri.",
+      "impact": "Diharapkan dapat meningkatkan produksi kedelai lokal dan mengurangi ketergantungan impor.",
+      "relatedCommodities": ["kedelai"]
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alert-001",
+      "type": "PRICE_SPIKE",
+      "commodity": "cabai",
+      "message": "Harga cabai merah naik 11.84% dalam 24 jam",
+      "severity": "HIGH",
+      "threshold": 10,
+      "currentChange": 11.84,
+      "timestamp": "2025-06-07T11:30:00.000Z",
+      "action": "Monitor supply chain dan distribusi"
+    },
+    {
+      "id": "alert-002", 
+      "type": "WEATHER_RISK",
+      "commodity": "beras",
+      "message": "Potensi dampak El Niño terhadap produksi padi",
+      "severity": "HIGH",
+      "description": "Fenomena El Niño berpotensi mengganggu produksi padi",
+      "timestamp": "2025-06-07T08:00:00.000Z",
+      "action": "Siapkan strategi mitigasi dan cadangan"
+    },
+    {
+      "id": "alert-003",
+      "type": "SUPPLY_SURPLUS", 
+      "commodity": "tomat",
+      "message": "Oversupply tomat akibat panen raya",
+      "severity": "MEDIUM",
+      "description": "Panen raya menyebabkan surplus pasokan tomat",
+      "timestamp": "2025-06-07T10:45:00.000Z", 
+      "action": "Diversifikasi pemasaran dan pengolahan"
+    },
+    {
+      "id": "alert-004",
+      "type": "EXPORT_DEMAND",
+      "commodity": "udang", 
+      "message": "Permintaan ekspor udang vaname meningkat",
+      "severity": "MEDIUM",
+      "description": "Permintaan ekspor tinggi mendorong kenaikan harga domestik",
+      "timestamp": "2025-06-07T07:30:00.000Z",
+      "action": "Jaga keseimbangan pasokan domestik"
+    },
+    {
+      "id": "alert-005",
+      "type": "VOLATILITY_HIGH",
+      "commodity": "cengkeh",
+      "message": "Volatilitas tinggi pada harga cengkeh", 
+      "severity": "MEDIUM",
+      "volatility": 18.5,
+      "threshold": 18,
+      "timestamp": "2025-06-07T12:00:00.000Z",
+      "action": "Monitor pergerakan harga secara ketat"
+    }
+  ],
+  "priceAlerts": {
+    "today": 3,
+    "week": 8,
+    "month": 15,
+    "critical": 2,
+    "warning": 6,
+    "info": 7
+  },
+  "marketSentiment": {
+    "overall": "MODERATE_BULLISH",
+    "volatilityIndex": 14.2,
+    "trendsUp": 18,
+    "trendsDown": 12,
+    "activeAlerts": 5
+  }
+}

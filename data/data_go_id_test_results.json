@@ -1,0 +1,37 @@
+[
+  {
+    "query": "harga pangan",
+    "status": "\u274c HTTP 404",
+    "total_count": 0,
+    "datasets_returned": 0,
+    "datasets": []
+  },
+  {
+    "query": "produksi pertanian",
+    "status": "\u274c HTTP 404",
+    "total_count": 0,
+    "datasets_returned": 0,
+    "datasets": []
+  },
+  {
+    "query": "komoditas",
+    "status": "\u274c HTTP 404",
+    "total_count": 0,
+    "datasets_returned": 0,
+    "datasets": []
+  },
+  {
+    "query": "beras",
+    "status": "\u274c HTTP 404",
+    "total_count": 0,
+    "datasets_returned": 0,
+    "datasets": []
+  },
+  {
+    "query": "cabai",
+    "status": "\u274c HTTP 404",
+    "total_count": 0,
+    "datasets_returned": 0,
+    "datasets": []
+  }
+]
